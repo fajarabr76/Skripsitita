@@ -1,23 +1,12 @@
-# Artikel Fluktuasi Saham BRPT — PT Barito Pacific Tbk
+# Artikel Fluktuasi Saham BRPT
 
-*Sumber: berbagai portal keuangan dengan URL lengkap*
+*Daftar artikel dari Google News & portal berita — URL lengkap*
 
-| Tanggal | Judul | Statement Fluktuasi | Sumber | URL |
-|---|---|---|---|---|
-| 21 Sep 2025 | Saham BRPT Terus Menanjak, Vanguard Hingga Blackrock Gemar Akumulasi | Naik 32,16% sepekan, **YTD +219,15%** ke Rp3.000. Vanguard & Blackrock borong 45,36 juta saham. | Kontan Insight | https://insight.kontan.co.id/news/saham-brpt-terus-menanjak-vanguard-hingga-blackrock-gemar-akumulasi |
-| 9 Agu 2025 | Petrokimia dan akuisisi Aster bawa laba Barito Pacific melonjak 1.464% | Laba bersih H1 2025 +1.464,9%. Saham +3,36% ke Rp2.460, **YTD +161,7%**. | IDNFinancials | https://www.idnfinancials.com/id/news/56491/petrokimia-dan-akuisisi-aster-bawa-laba-barito-pacific-melonjak-1-464 |
-| 24 Sep 2025 | BRPT Naik Lebih dari 15% ke Tertinggi Baru Sepanjang Masa 3.910 | Tembus **ATH Rp3.910** (+15%). Dari terendah Rp585 (18 Mar) ke rekor. | FXStreet ID | https://www.fxstreet-id.com/news/brpt-naik-lebih-dari-15-ke-tertinggi-baru-sepanjang-masa-3910-202509241002 |
-| 21 Sep 2025 | IHSG Rekor Tertinggi 8.051 Didorong BRPT dan TLKM | Sumbang **45,95 poin** ke IHSG, naik 32,74% sepekan. | Smart Money | https://smart-money.co/ihsg-rekor-8051-2025/ |
-| 31 Mar 2026 | Ditopang Akuisisi Aster, Laba BRPT Melesat 1.214% Jadi Rp27,47 Triliun | Laba FY2025 **USD1,616M (+1.214%)**. Pendapatan USD7,63M (+220%). | IDXChannel | https://www.idxchannel.com/market-news/ditopang-akuisisi-aster-laba-brpt-melesat-1214-persen-jadi-rp2747-triliun |
-| 2 Apr 2026 | Emiten BRPT Raup Pendapatan USD 7,63 Miliar pada 2025 | Pendapatan +219,7%, laba bersih +775% ke USD490M. | Liputan6 | https://www.liputan6.com/saham/read/6309209/emiten-brpt-raup-pendapatan-usd-763-miliar-pada-2025 |
-
----
-
-## Ringkasan Fluktuasi BRPT
-
-| Metrik | Nilai |
-|---|---|
-| Terendah 2025 | **Rp585** (18 Maret 2025) |
-| Tertinggi (ATH) | **Rp3.910** (24 September 2025) |
-| Kenaikan dari terendah | **+568%** |
-| Katalis | Akuisisi Aster (Shell SECP), laba +1.214%, investor global |
+| Tanggal | Sumber | Judul | URL |
+|---|---|---|---|
+| Tue, 16 Jun 2026 | kontan.co.id | Bisnis Kilang Singapura Bakal Jadi Mesin Pertumbuhan Barito Pacific (BRPT) Tahun Ini - kontan.co.id | https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ29BQ1JPMGs1VjlVVFZkbmg2ZVVHRGFiLTgybXNGelJkUEhpMVhvTjdZRGZDUlNzRHBqT0daZ1UzTFJJTl9keXJPTHZVY2FocXVfUGhSRUtnb3N3cm51RFlSQWh4aGNlQUtheGQ0UE1mdHRfeU1BN3kxSjlFR3dDZU1vS2ozTHBEUHhWR2podFFlbFdRSDlhVXhZTEVxdjQ0TWF5RTI0QVZyTmlpT0pOZ19hemZjZlRDSmfSAbIBQVVfeXFMT0gtMWFDLUduOGdveC1iRHJENE1vdUc0Q3dxQndzdXg0WFFqOXVsby1HcUpLdld0LXZkUDluVEhBTDJ3Y1FXdGtNVklTQWNhYk5EdXRFZXFiZ29vd2RpLUd3REM3aDdhVUlfMFBjXy1LUDNaM0RhaEZGbkNodTZpWW5NcjRQMnd3RV9WTlhrbzByeTB5YUFYS2hKZTBEWjU4MUZRblZPYl93UDFPTF9wUm1Sdw?oc=5 |
+| Tue, 31 Mar 2026 | Bisnis.com - Market | Laba Emiten Prajogo Pangestu Barito Pacific (BRPT) Meroket 767,2% pada 2025 - Bisnis.com - Market | https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOGlZeVFfYlBBQ2lMZHZxME5LR25UbkYtSXJGYTlpMGx0VFRWdTQ0Q0ZaZjVqOEcydHh1SWtDSlBmNklaQURWaXFiTWUyVWJ5THdsRzlsU0VSbUNRTlV5Z1R3VW5OS093TGVuZE82ei1kYlJmcGJfT2h1TTRMQVREblVfYzk5WVV2RzM4b1FkeXVka1FqRnEzODVFM3RIR1pDbmZLMGhfZ0NkOGRBZk1jd2pDM3Q2UGpkMjdXeWFnaFE?oc=5 |
+| Wed, 17 Jun 2026 | kontan.co.id | Barito Pacific (BRPT) Tak Lagi Bergantung pada Petrokimia, Simak Prospek Sahamnya - kontan.co.id | https://news.google.com/rss/articles/CBMitAFBVV95cUxOdjYxVjNIX2FvRldnOWxXdU50Tkp4dlpBUWVXQjlYczFLY0FaUl9vendEOTItTHpRMkJYWW9wMWdScXRITTdlS0xGNy1HUTJsclpKaHR2cGkzUDZIMEw1d0lFa1hjY3A0QnhWUTlJdkQ4TVZSUnEtSHBNVnRKV2VJZ0F4bnVSSmRqcmx4N0k0LUlWVTNpT1lXQjItNDVUb0puajh2aG9rN0xCOXotM0l3NlhXSEzSAawBQVVfeXFMTzVlWkFGTXpPc3BHNmVhTlJKTG9pYkx1LTVBVkt1M3V0cHBXUzRHQTh6UTBmTUswTkQ0RVlCTlBuVFdmVUZXZ3FQSDVZYlkxcXJpM2k3Q1FjeXBRWkE1SjNEZlVJdko2cWc3Qm1jRk1oSXUxVFMxdDZfN1hwQUFrYndCZ01HX2c4ZTBER2xnM2p3ZkZyWTFHdHJLdEVlbG9vcGZ5VlhyRHB6SFJzTQ?oc=5 |
+| Wed, 28 May 2025 | kontan.co.id | Kinerja Barito Pacific (BRPT) Diproyeksi Cerah, Berikut Rekomendasi Sahamnya - kontan.co.id | https://news.google.com/rss/articles/CBMirgFBVV95cUxOVWZsMlZ4UHdwZlpTRGI4UTJMU1hnOU5YMkdEcUR3WlJESG1sQzJVVnJsRUNKbnh1LWtiejRaWGoxcHJtVjM4NWtBdy1LTjRFSzNqNGJKcFFSTDhJTjdMX3RsejlUWW5hbVB6SjdGeFlwWGh6Mzl0T3h3RnpsNUNEMENwRUtRdjZDX3lKTjQ1dkl0eDl0TmhKYzdsSVBjbUZUd2RRTzFhc3B4YlR3dFHSAaYBQVVfeXFMUEtaUXhZNTdzR2luQ1FrRTBWS3UtWjk5b3Axbk16M1Rjb1Q5YVhvWTlNU1hKZlR2S0tfWldlTXlIaWxVZUpNN1ZNQTRpQ0RNNXJWS0luNXdlYnJDbEhJcWRpbGFKT0ZyOHpHaExXMkZBZERFZ3BVNWJmX2Y4RGVKVVhJMHBiV1dhT05yd0NUaDUzdHp1X2hZOE1NSGhxMWFEajQ0UU8wdw?oc=5 |
+| Mon, 13 Apr 2026 | Katadata.co.id | Balap Laba Emiten Prajogo: TPIA, BREN, BRPT hingga CDIA, Mana Paling Menarik? - Katadata.co.id | https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZlYwcVVmRkZSQnhpZGZIU2xQOVZ4WnhHc1QzNDd4dFJQYnBxNk8yY1BKMnlRNWhFRUNvbG5kWGdDM0t5Tjl6MlphVnZOYldxbm9iZGljdkFnclVLTDFQNThMWEZraTNwWXZ2QmlKRW0tZ0lWLVYycDFlTWYtTF9YWHhBaDBrd3h6QnlXaWlBZVVSQ3ltcmpPRF9xbnRuTlVnUWxGYW5kRW5zZnRRa1JUZmNUQjdvYXhpdHdKbk1OV281N2_SAcgBQVVfeXFMTkNjOFRXNUVNLU96WkhyLU5hSHNUMjI4Znl3SUFfQy1TREctSWhLdVktVEpMdUN1MlhjdUoxT1ZOaXIzVnVtVVBELU1oWmFhMGZuZEVuX3prS1I0NjRfZEJCOWtTTVpPS2FqSkZMSW40akQ1S1Y4YkcydWVoOUc3WW51ckx3ZXVnV20zMkJkWE1YSGFLZlBvb01tVWhaZ0xvSFpHVDNtOXROOWFvMEpueWhlU0hxN01QRl9aOUNXRk51dEhwcVNzcEk?oc=5 |
+| Tue, 31 Mar 2026 | Readers.id | Laba Bersih Barito Pacific Melesat 1.213 Persen Sepanjang 2025 - Readers.id | https://news.google.com/rss/articles/CBMib0FVX3lxTE5mc3Viak5oRHQ1V0NVamxVWVhvQkhHOU5mM0RoWUk2MkNDbWVZNnJZSmdPZFA0YkctVUk2dklpMFE1eVNJN1BRNUc0eTdHcVhqQ2c4TUI0Qnpod0NiX1RmTTFDVVQ0YkNwNERDQnVsOA?oc=5 |

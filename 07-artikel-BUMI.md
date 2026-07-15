@@ -1,42 +1,16 @@
 # Artikel Fluktuasi Saham BUMI — PT Bumi Resources Tbk
 
-*Dikompilasi dari Google News — link bisa dibuka di Google News Viewer*
+*Daftar artikel dari Google News & portal berita — URL lengkap*
 
-| Tanggal | Sumber | Judul | Ringkasan | URL |
-|---|---|---|---|---|
-| 11 Nov 2025 | Ajaib | Saham BUMI Kuasai 100% Saham Wolfram | Akuisisi 100% Wolfram — katalis positif untuk BUMI | https://news.google.com/rss/articles/CBMidEFVX3lxTFAzVldtbHdlRndIc2ZpZVNFOEdad3E... |
-| 11 Nov 2025 | Ajaib | Prospek BUMI Resources: Kuasi Reorganisasi hingga Strategi Pertumbuhan | Restrukturisasi & strategi pertumbuhan BUMI | https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14UkVpbTc2a2tneTh1NWdfZzFpSmx... |
-| 5 Jan 2026 | Mikirin Duit | Saham BUMI Terbang Tinggi, Dejavu Masa Lalu atau Momentum Baru? | Super-cycle BUMI +358%, dejavu 2007-2008 | https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0dSODUtMVlFQmtOMlRtbWpEU2x... |
-| 30 Jun 2026 | Mikirin Duit | Aksi Korporasi Saham Grup Bakrie BUMI, BRMS, DEWA Saat Market Loyo | Aksi korporasi grup Bakrie di tengah pelemahan pasar | https://news.google.com/rss/articles/CBMimwFBVV95cUxNX2JmS0NQZ2xnTi1KRWRobW5aYXM... |
-| 18 Jun 2026 | investor.id | BUMI Bakal Kasih Kejutan? | Spekulasi katalis positif untuk BUMI | https://news.google.com/rss/articles/CBMiakFVX3lxTFBORnp5alpfYzB3MkhFOHlhQm9jZjU... |
-| 19 Feb 2026 | investor.id | Saham BUMI Loncat, Barang CIC Habis? | BUMI melonjak — analisis penyebab | https://news.google.com/rss/articles/CBMid0FVX3lxTE1ScUZVVXpoR2tmUUxHeS10OXFmM0wxSlJpOXVHSW1WQ2Z0QXdNeG1pT3FzbDZHZXJEazg5Um5MUjVmVGJkV1d5QmgxbXBLdDRpQ2FHWUVmREFCZFVmSkhaaFB5UDE0SEJJaWNfMDNraDZmeWhGVmd3 |
-| 20 May 2026 | TrenAsia | Peluang dan Risiko Saham BUMI Usai Ambrol ke 180-an | BUMI ambrol ke Rp180 — analisis risiko & peluang | https://news.google.com/rss/articles/CBMijwFBVV95cUxOMnlqSm5hd2ZrR2xCaGoxM0NqeGx3QzZKcS1rSTliWUlSeWJWeHBndzhWVEJRb1BKcUdUYlhwd1pjOTZNdnZxWk5PUzVSQTYzd29LckNRdUd6aElMYlBUVFkyeXhMQmxpcFNwWEJWQzlXVlFXc2U3OEdoWTR0TjVGMlF5V1kwZ1htLTRTdUtCONIBhgFBVV95cUxOTDF5bTl2VlFiVjI3MTZnVUEzLVdaMzJGSnFTakpUa0I3QjdESjFGSTRGSHVGYVdOdnFOYzg5dG0yR29ENldaaGlnVVZwbkdtSGNrbEpTeXVSQlMycVFmeU9tSEZzUlY0S3N5RFRBbHNFbjVCNEpjOTUzRDhleFJZMVhCTGd0QQ |
-| 24 Sep 2025 | Ajaib | Bedah Saham BUMI: Bisnis, Prospek & Kinerja Perusahaan Batu Bara | Analisis fundamental BUMI | https://news.google.com/rss/articles/CBMimgFBVV95cUxNMVV5c01TTGtEbWxsMkl6ZkxUMVFlQnRzZFgtWDdKMUNMSnBSYko3ZUZPeUh2Z2FmTHB4MFFwd1JRRFRZVi1qdlBkekFDc2hJQUtTNWF3NTlfcnZRTy1kMnQycnhTelJDRXpLaGoweXJFVGhTM29iNTFrLUlZbXdlMDhmSWtiNC12b25tMjVNSHhxcHJXWGw2QWlB |
-| Jul 2026 | IDXChannel | IHSG Menguat, Saham Grup Bakrie Kompak Naik | BUMI dan grup Bakrie kompak menguat | https://www.idxchannel.com/market-news/ihsg-menguat-06-persen-di-sesi-i-saham-grup-bakrie-kompak-naik |
-| Jul 2026 | IDXChannel | Saham Grup Bakrie Bergairah, VKTR Melonjak 20% | BUMI & grup Bakrie bergairah | https://www.idxchannel.com/market-news/saham-grup-bakrie-bergairah-vktr-melonjak-20-persen |
-
----
-
-## Referensi Jurnal
-
-| Judul | Publikasi | Tahun |
-|---|---|---|
-| Analisis Kinerja Keuangan Sebelum dan Sesudah Right Issue pada PT Bumi Resources Tbk | Jurnal Ilmiah Wahana Pendidikan | Jul 2025 |
-| Pengaruh Struktur Modal, Profitabilitas, dan Likuiditas terhadap Nilai Perusahaan | Jurnal Ilmiah Wahana Pendidikan | Jul 2025 |
-| Analisis Fundamental untuk Menilai Kewajaran Harga Saham Perusahaan Pertambangan | MUSYTARI | Mei 2026 |
-| Pengaruh Profitabilitas, Leverage, dan Likuiditas terhadap Financial Distress | MUSYTARI | Mei 2026 |
-| Pengaruh Current Ratio, DER, dan ROA terhadap Harga Saham Perusahaan Pertambangan | MUSYTARI | Mei 2026 |
-
----
-
-## Ringkasan Fluktuasi BUMI
-
-| Metrik | Nilai |
-|---|---|
-| Terendah (Sep 2025) | **Rp103** |
-| Tertinggi (Jan 2026) | **Rp472** (+358%) — super-cycle |
-| Katalis Positif | Akuisisi 100% Wolfram, restrukturisasi utang, laba +20,1% |
-| Katalis Negatif | Ambrol ke Rp180 (Mei 2026), harga batubara global turun |
-| Aksi Korporasi | Akuisisi Wolfram, right issue, grup Bakrie aktif |
-
-> *Sumber: Google News, Ajaib, Mikirin Duit, investor.id, TrenAsia, IDXChannel*
+| Tanggal | Sumber | Judul | URL |
+|---|---|---|---|
+| Mon, 30 Mar 2026 | IDNFinancials.com | Laba bersih BUMI melonjak 20,1% di 2025 meski harga batu bara lesu - IDNFinancials.com | https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTBlMEdISFAzTlRCMXB6eW1GN1JHRHJjdFMyUDZ0SUtHVDhTQ1l4cmlxR2M4OVJGeFFZdHhCNkt0MHhHSDRjczJ4akpJZXBGd0Y5bU9lX3RzeElUS1B0X2hJUlEyNmk3T0lXdG5WVFA3Nk1sR1daMENLaE1oZjZRdGkwNHFqYmlCbDlzOThaY3poYVlldGRCcElDOUJ0RHBLNk1CLThnamVjaE5xYkE?oc=5 |
+| Thu, 16 Apr 2026 | maybanktrade.co.id | Korelasi Harga Batubara Newcastle dan Laba BUMI 2026 - maybanktrade.co.id | https://news.google.com/rss/articles/CBMilgFBVV95cUxOei00RTYzdGVvVmlsZmdrYkxMR3gxVlVKUHRXaHV1VU5ndXVsaWltakpJaVp5MzVqT284RWVpbVQybnZVSkltYlNncV85R2tlZVBaLVRXMElJdXdRVnZTZUlYdVB3Yi04WWZxWDA1b0pmSlVQRHMzc3phODU2VmNHMThMX3Z4MndLTG1LY3hBOFFUcHdaMFE?oc=5 |
+| Mon, 30 Mar 2026 | kontan.co.id | Bumi Resources (BUMI) Raih Laba Bersih US$ 81 Juta pada 2025 - kontan.co.id | https://news.google.com/rss/articles/CBMimAFBVV95cUxOMmNlYXUzenBOXzdVbmpHMlNqakhDTXRnY0YxWDVyRUhyODIydTR0T1NtWTN6SFZvNjNJSWJ3dm91V2tpWmdqeUFQWGtfOWRsVmpLVzVzOUV1b3JOMHBoSkpVbWF4SE5PTnA5LW96dm9WckJNVTFGR0pDV2hWQmpFTXFmNnJ0SXdwVWpfVEp1SVhGUDcwbkxtY9IBkAFBVV95cUxOWEFGQm5MMXI5Zkt3c1RQOFEyX2FFNFdoclJZdEFJcUNJSUxweEszMm5mVU9jdVZaLURLcUF6VmdZVU4ySWFvS3U4VFVmb0lzUUQ5QWY4c3FuR1AzTUFYMGg2X1VhWWJkSVV6cHZmVzhSdXZjbXQ1S2hCbklfS2xnUFI3MUw3cnRGTWJLVjJZRGw?oc=5 |
+| Mon, 30 Mar 2026 | SWA.co.id | Laba Bumi Resources (BUMI) Tumbuh 20% di 2025 Meski Harga Batu Bara Turun - SWA.co.id | https://news.google.com/rss/articles/CBMiogFBVV95cUxOVExRWlFmWGVmendiQ3lFMVRiZnFnd3RzLVU4TlBFUGZaV3JNaklwaXlIZ2ZId1VfUUNlcHpOSW5HV0J0bFpPZWNheHU4VTJSYkRtUmdON244aVpHZXVBMm5XUlZTQlVHMnFpNGJ6UlV2akpOX3ViV0IwRzRTUEMyMDhicks1Y2RHRUFLMzBNNTVvb3QxeGdGdjRJWUlrV016S3c?oc=5 |
+| Wed, 17 Jun 2026 | pdiperjuanganbali.id | BUMI Agendakan Perubahan Anggaran Dasar dalam RUPSLB Juni 2026 - pdiperjuanganbali.id | https://news.google.com/rss/articles/CBMifEFVX3lxTE9DSFV4dG0zVmM0VTBtUWlHOXF2M0ItRG9uTmFaanoyQjNVZFhxbzdVcGpxS2tXQnBGOV9BeERMTnhDRkRRdG9YNjZRbG9FbHd6N2xNRHMzYkFYeF9LRTIyekxOSVdENmMwV1U0V0E0SW9fcS16MnZXTVdRSTk?oc=5 |
+| Thu, 06 Nov 2025 | Ajaib | BUMI Terbaru: Ekspansi Tambang Emas dan Masuk ke Indeks Bergengsi - Ajaib | https://news.google.com/rss/articles/CBMioAFBVV95cUxQQmpEOHUxV1pXbGRxMXJ2SDRtRXJ4MnIyek82Qzd0QXhvdC1xcFlRbERjXzMtMEhhWGhDeXk2OE9nOTduN2NMMEprOVdSSGhHSWd2cF9OOXpqSXpXTWYwVWQ5aWh4RDV2aWo3YjNhZUVnNGJzc0txREpBT0NpbWd4dG1iUXJYakVPLXNVdXVWMjM2MXF6N2Vkek5WY0t6OVpw?oc=5 |
+| Mon, 05 Jan 2026 | Mikirin Duit | Saham BUMI Terbang Tinggi, Dejavu Masa Lalu atau Menjadi Momentum Baru? - Mikirin Duit | https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0dSODUtMVlFQmtOMlRtbWpEU2xPbDBoOVZwUUJObDdKSkRCX0Jwd2FjSmllOWVrMEVobURGZ0RBX0tkN240VUF1dllpejFiN3g2MWIzLXZtcHpDR3BmaXV5RHplLXd2ZXI2dVMwdzJHd3dYZkdEdG8wN2sySkI4M1JsTXFkVEdQV2daT3ZRc3FqRi1sUlZJMHVmQTg?oc=5 |
+| Thu, 30 Apr 2026 | Bisnis.com - Market | Laba Bersih Bumi Resources (BUMI) Melesat 35,2% pada Kuartal I/2026 - Bisnis.com - Market | https://news.google.com/rss/articles/CBMitAFBVV95cUxQYmNMeURLY3ZlWFlLVDlOQUR6THBaMFNvampXVXFJWVVTdDl2LUhOdXplSXJHYlR6OGt5RHRlQW51eDVpdEV1N3NxSVB1NnBqZVBJbzdvQTJWdkRKdXpIQUxLckttTG4xbFdHYkJRTDc5MnV4azVPSG9uYk5CdTdhb0FobFY4WTRkUDJNNVBfUG5vRWRoZDNJdzg4Z2JIeUtKSFRmQzFNVmdfVm9fQXdXM1VpNFY?oc=5 |
+| Thu, 30 Apr 2026 | PintarSaham | Kinerja Keuangan BUMI Q1 2026: Laba Bersih Melesat 34,6% Menjadi USD24,1 Juta - PintarSaham | https://news.google.com/rss/articles/CBMingFBVV95cUxQRmFpa0xkSFJZYWNjaGM5MXNDVHQ3OV9VaTNWaDJ2ZGFlcTBFYzgydnJKMEtRcl9uYjhjSHM3Wl94YXY0Z3Vfem5BOUJNakV3YzQ2dndVeVRDT3dLUmgzd2xJaUZ4SzBYdHh6NXRtM1RHSjlBLUtfR0U5M201V2VLRkhMdS1uVWxsSk0tdUpLRFVZazdGU3lrdUpmb2N0Zw?oc=5 |
+| Tue, 03 Feb 2026 | CNBC Indonesia | Ini Bocoran RKAB Pertambangan Batu Bara, Emiten Mana Paling Untung? - CNBC Indonesia | https://news.google.com/rss/articles/CBMiygFBVV95cUxNR3BXQjZqQUNJNDVNNWs5SDJCQmVHc1ZWWTBWZ1VvUUlZaDgzMFpJU2UwaUdWTDYyc29HeFdvY09LRjM1S0c3YktpLU5ONWtNN3AzYUdsR2wtRXI4QmJDZUhETWh0cEFFUko3d0x1NTVvdktOd2xzYUxJc0RvTjktX0RFSW5LNEdNaF9aS05qVFhaeExXQVZBcjAxN2o1ZHZnT05IMXdZRVRBcFotMFpDNDI1UzVFNjNmR29LY2E0cDhReWx0T0pkQ1ZB?oc=5 |

@@ -1,33 +1,17 @@
-# Artikel Fluktuasi Saham ITMG — PT Indo Tambangraya Megah Tbk
+# Artikel Fluktuasi Saham ITMG
 
-*Dikompilasi dari Google News — link bisa dibuka di Google News Viewer*
+*Daftar artikel dari Google News & portal berita — URL lengkap*
 
-| Tanggal | Sumber | Judul | Ringkasan | URL |
-|---|---|---|---|---|
-| 26 Feb 2026 | kontan.co.id | Laba ITMG Anjlok 49% di 2025, Prospek 2026 Masih Menarik | Laba ITMG turun 49%, prospek 2026 masih menarik dengan valuasi murah | https://news.google.com/rss/articles/CBMirAFBVV95cUxPQks0WUJFSXBXWjRBWnhVR0tEQjl... |
-| 26 Feb 2026 | Bloomberg Technoz | Produksi Batu Bara ITMG Ditahan 25% Sampai Maret 2026 | ITMG tahan produksi 25% karena RKAB | https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1ZSR25tNzd2M3BSYnJodkZ2VmRtcnhicU9yVnpQU0huUzhsSHZUdmdrb1laR28xNDlJWTFzajVHdl9xTTd6NmJvWmlWMDdPTUctaEJ1Wm84R3NRMmd4N3dDcjhTbHZHMHJ3eHFDNnUtbFVTMGtoc0tCVjJIdmF5RHFRV2tVU3J4amVZU0E4Sk9ZTk0wNmdjc3RUNkxfZzRqR0lMZW93NA |
-| 26 Feb 2026 | Dunia Energi | Beredar Persetujuan RKAB, Bayan dan Grup ITMG Paling Besar Kena Pangkas | RKAB dipangkas — ITMG terdampak besar | https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV2JVZXRJS3BCUTB5MjkyX3BPUGx... |
-| 26 Feb 2026 | TrenAsia | Terjegal Kuota RKAB, Cuan Dividen ITMG Masih Menggiurkan | Dividen ITMG tetap menarik meski RKAB dipangkas | https://news.google.com/rss/articles/CBMilAFBVV95cUxOSUU4N2t4NnRPTW9JeUZyZjJQT3p... |
-| 3 Mar 2026 | Ajaib | Jelang RUPST April, Laba ITMG Susut 49%, Bagaimana Arah Dividen? | Laba susut 49%, arah dividen masih tanda tanya | https://news.google.com/rss/articles/CBMimwFBVV95cUxQWncydEdsLWRTaEtPa1dYMVprc0g... |
-| 12 May 2026 | IDXChannel | Laba ITMG Susut 16% di Kuartal I-2026, Beban Tekan Profitabilitas | Laba Q1 2026 turun 16%, beban operasional meningkat | https://news.google.com/rss/articles/CBMiugFBVV95cUxOT2lRSDU5cHZBUGVCSnpqTm5vLXI... |
-| 25 May 2026 | Bareksa | Rekomendasi Saham ITMG di Tengah Skema Baru Ekspor Batu Bara | Analisis saham ITMG dengan skema ekspor baru | https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXN2czFiUm9qVjdEMzJWMjhXMzV... |
-| 22 Sep 2025 | Mikirin Duit | Prospek Dividen ITMG Saat Labanya Jeblok 59% | Diversifikasi bisnis ITMG + prospek dividen | https://news.google.com/rss/articles/CBMipAFBVV95cUxNUDhLZWIteE9SdF92eU5KWnhVa2R... |
-| 6 Jul 2026 | kontan.co.id | Relaksasi RKAB Mulai Juli, Prospek Kinerja ITMG | Relaksasi RKAB efek positif ke ITMG | https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUtqMnMwSkJDbXVaMlZEUGdkWTQ... |
-| 20 Feb 2026 | Bisnis Indonesia | Daya Tarik Saham ITMG Meski Risiko Pemangkasan Produksi | Analisis risiko vs daya tarik saham ITMG | https://news.google.com/rss/articles/CBMixwFBVV95cUxOUjJoRlpNem12YlhaOUlaSlpqNWN... |
-| 6 Mar 2025 | Bareksa | ITMG Catat Laba 2024 Turun, Target Harga Saham & Dividen | Fundamental ITMG 2024 + prospek 2025 | https://www.bareksa.com/berita/saham/2025-03-06/itmg-catat-laba-2024-turun-segini-target-harga-saham-dan-prediksi-dividen-2025 |
-| 27 Feb 2026 | Dunia Energi | Harga Batu Bara Turun, Laba ITMG Merosot 48,96% | Laba -49%, ASP turun 20% ke US$78/ton | https://www.duniaenergi.com/harga-batu-bara-turun-laba-bersih-indo-tambangraya-merosot-4896-di-2025/ |
-| 9 Jun 2026 | TrenAsia | Menilik Fundamental dan Kinerja Emiten Batubara 2026 | Analisis emiten batubara termasuk ITMG | https://www.trenasia.id/menilik-fundamental-dan-kinerja-emiten-batubara-2026 |
-
----
-
-## Ringkasan Fluktuasi ITMG
-
-| Metrik | Nilai |
-|---|---|
-| Harga 2025 | **Rp21.875** (dari puncak Rp39.025 di 2022) |
-| Laba FY2025 | **US$191M (-49%)** |
-| Laba Q1 2026 | Turun 16% (beban operasional naik) |
-| Katalis Negatif | RKAB dipangkas, harga batubara global turun, produksi ditahan 25% |
-| Katalis Positif | Dividen yield menarik, valuasi murah, relaksasi RKAB Juli 2026 |
-
-> *Sumber: Google News, Bareksa, Dunia Energi, TrenAsia, IDXChannel, Bloomberg Technoz*
+| Tanggal | Sumber | Judul | URL |
+|---|---|---|---|
+| 6 Mar 2025 | Bareksa | ITMG Catat Laba 2024 Turun, Target Harga Saham & Dividen 2025 | https://www.bareksa.com/berita/saham/2025-03-06/itmg-catat-laba-2024-turun-segini-target-harga-saham-dan-prediksi-dividen-2025 |
+| 27 Feb 2026 | Dunia Energi | Laba Bersih Indo Tambangraya Merosot 48,96% di 2025 | https://www.duniaenergi.com/harga-batu-bara-turun-laba-bersih-indo-tambangraya-merosot-4896-di-2025/ |
+| 9 Jun 2026 | TrenAsia | Menilik Fundamental dan Kinerja Emiten Batubara 2026 | https://www.trenasia.id/menilik-fundamental-dan-kinerja-emiten-batubara-2026 |
+| Wed, 29 Apr 2026 | kontan.co.id | Kinerja Indo Tambangraya (ITMG) Tahun 2026 Diprediksi Lesu, Ini Tiga Penyebabnya - kontan.co.id | https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGNId1FTazRzWDNuODFtNGdQYll1NjFWcDFIZnE2amZNeC1tUlpkRmo2Z0M4ZHNJbjhZSHdWQXJGUnhJYzNteHVGbm1LQVVNMzNXU2ltWjdlWW16aG5rZTh2M1ctTnlhMFhuSHNGNGVJS0FfenhyVmlFSU0tZ1JpQ1c1TkNhdXptYmNGeHQ2Z3I2TDZaOUMzX3BOTEhOazVDbEZTdFJOZVFaZnhUd0tQTEVTMNIBqwFBVV95cUxNMzFyY3YycXZfQWpxTjBWNzB5eEdwYmlfNjdFdkoyU0dueVBMOFVSY1FTSjZmS0F1MU8yblpFcmVUc1RSQi1XcmRBT3JEUWc4U29kbHctUkZPb3p1RVhPREhSWjhiNjFQbEdwMUN4TDc4WGtmQ1ZXOXVfM1JiODV1Y3cwd2VNZ1NJU3c0ejhmZ0JxVUpONzBKZzNWc1lrTzZnMWpwY3VUc0FqOXM?oc=5 |
+| Thu, 26 Feb 2026 | TrenAsia | Terjegal Kuota RKAB, Cuan Dividen ITMG Masih Menggiurkan - TrenAsia | https://news.google.com/rss/articles/CBMilAFBVV95cUxOSUU4N2t4NnRPTW9JeUZyZjJQT3pMTkNGSUFIVlVWeHhhcjBpYXZVNGxMQUx4LWp6MjMwZWVQSkNPU214aTI5bEpiTjFRaEV4MC1STVFWSFhkRUQta3lVT1pYNzF3QjQxVFF0THpaR0h1cHFEb3ZvSmtqYmFHU0EzY2h3V1VVbGh6TnZyc2o5SlViLWEy0gGLAUFVX3lxTE4ycFJYS2JWZVo1YTFGdU8zbUZHcW9xY1BoeTNiYzV6Vm9mLVJKWDJOeGR2RURXVWhTMXBuRFh4b0ROZFVHcmh3LXg2eGkzeHJWa1hPNS01ZlhhQTBhZm9IOWRWMTJOeTFOYzJSS3pUQURmWjhqWWtJbjRmMlhKbEtFbUJOS092STVsQ3M?oc=5 |
+| Sat, 11 Apr 2026 | Mikirin Duit | KKGI dan PTBA Umumkan Persetujuan RKAB 2026, Begini Prospek Deretan Saham Batu bara - Mikirin Duit | https://news.google.com/rss/articles/CBMirgFBVV95cUxOR1MtNTBwMzBoekFramFETkt0SDFiNVFDTkZPNzZWTEd5RzBIZkFDR3FNLTJNQUFOS21xMzhnMng4dmNhdkdKeGczdUhRWGZVQjBjb0s3ZTY1SGdDMUZvdkl5S0p0UjN2SFJVSnl4cnZVSENqM1VZVGJqSGloUkNXUDdCelZqeEtBZXVZTEdZU0I2Y0dlREtONnBWS0l5XzM2VVB4YnhhbHZUbU1heEE?oc=5 |
+| Mon, 15 Jun 2026 | Ajaib | Tertarik Berinvestasi di Sektor Energi? Berikut Saham Batu Bara yang Menarik Dicermati 2026! - Ajaib | https://news.google.com/rss/articles/CBMid0FVX3lxTE8yR3RFRHhEOWpIR1MxUVhPUTNsa1N3MHBCYWNWNXQ2bU5JdDhkX0ZuQ1dJVDhPdlBDWlZqd0JENzFwQzJ2Rm5wd0JmTmhVclZCN2pyZDRNMDA2M0hoSl93RGtLVDBScU5DQUFIZDQxQ3Bad191LUNr?oc=5 |
+| Mon, 26 Jan 2026 | kontan.co.id | Laba Indo Tambangraya (ITMG) Diprediksi Pulih pada 2026, Ini Sebabnya - kontan.co.id | https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlpnMmtjMFVpYXRTdHNiZmRhNHFxMkxWZlNQUTdlR0hYcUpFckxBWmsyMXpXemhqWnNYakloZEp3OHRGOWY0M1E5QXVaQUZUZ3c0T0ZrY0NNeTdlRjRuZFJXbnlCVEdNaldSTXk4WTNaLXcyd29QLUt3aHNhNU55eEJfRER6Rnc1N21yOHNGRHRWcVJ0YVVWbmhZRUJBWWZkTkY3ZtIBnAFBVV95cUxObHJNWVplVW9nRm5ueHBjY2tRNjdXNHlpb1E0ZjZvZE9LejZ5OTkzMGQxQUhCeVFLTk5HcmtrWEJQUWFDYjZsMnEzUU1UNFJqSm5mdEcxV09OWkFscDJuTFZpQ1psVGtIZTAwVlp0RWtWSDNWekVhQmYxdTF0cDhQYUxYczZ6V2hmVFZGMnJ0eFJYTF8yLU1HT3JNdWo?oc=5 |
+| Wed, 01 Apr 2026 | investor.id | Pandangan soal Saham ITMG Terbelah - investor.id | https://news.google.com/rss/articles/CBMid0FVX3lxTE02MGtiYmxzTlk0YkN0cHhraWp0OE9jem0xLU4tRzdfTjBhbVRKZGFPU2NibXlOLXlnYjk5SkNsQUJFQUZhY3lsOHF6eUVDRUVNNmhBTnZBSE5uVjJKam03Vnh2Uk5QRGJyX2p4N2h2YmxNc2dGd1lJ?oc=5 |
+| Thu, 05 Mar 2026 | Mikirin Duit | Bertaruh Pemulihan Saham ITMG di Tengah Revisi RKAB yang Bikin Operasional Lesu - Mikirin Duit | https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGRQN3F0RzlzdlJEWkNzd1kwYkgzSHVFd0h0V1FvR2lsTldkVVJodGFZU0cybmxmc2tGV0x1ZElfaGRBQTFPS2hvZVJ4akhDQ3VzSGxtMFFUMFkza3Bkb19GUFIzYkIwU3pSdE42RDFKSWhKSFBHaHBoRkZsdGVDdENuWlE0b3BfaWVNbnJacWFFRkFlQ0RqbTlLSWk2OXpEcld5U2kzak9JQQ?oc=5 |
+| Tue, 28 Apr 2026 | kontan.co.id | Prospek ITMG 2026 Membaik, Hambatan Struktural Mulai Terdiskon - kontan.co.id | https://news.google.com/rss/articles/CBMingFBVV95cUxQY1pqTHM5Qnl5Q3JGdG1keXNMbHJJa0VNYkhMcEZ1MXhkV3NlTHdjWmltU1Vya0ZqaTg3Sm1fRW1Scm5hRGF2WDJQU1pPUUJFQ3h3TWZ2Z0RZZmZVWklTSTZsTU5JSURaNFNVM25CVkNHWXh1U09CZk1hMElxV1ZhaEpfNmNhOU5YWVJldUhndmRJVTlISVZIcmZSLUU4UdIBlgFBVV95cUxNc0hXUl9TejB5UGZHbnlzTlp3Z0MySnZ4bDFrRXpzMWFLSzY5OG5CVnozYmJLMkV3TElyY3ZxMjZwb3cxNi14a01ianQwbFdnN3FIS3RScDBlY0prUjRjeHV3bWxvZGRzY2RwVl9BRnhrMEp5ZjZKTDJ3TEVMM2t4ZE43ZjREd2Q5djROZ0gtdkJMZlpscXc?oc=5 |

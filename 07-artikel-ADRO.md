@@ -1,31 +1,15 @@
-# Artikel Fluktuasi Saham ADRO — PT Alamtri Resources Indonesia Tbk
+# Artikel Fluktuasi Saham ADRO
 
-*Dikompilasi dari Google News — link bisa dibuka di Google News Viewer*
+*Daftar artikel dari Google News & portal berita — URL lengkap*
 
-| Tanggal | Sumber | Judul | Ringkasan | URL |
-|---|---|---|---|---|
-| 18 Dec 2025 | Mikirin Duit | ADRO Tebar Dividen Jumbo Yield Hampir 8% Pasca Laba Susut | ADRO bagi dividen yield ~8% meski laba turun pasca spin-off AADI | https://news.google.com/rss/articles/CBMitgFBVV95cUxNVXl1QUZuYWRMZ19ZUGxVcXY3QXRqTlRzZ0hqbVVaeUp5aHQyUUd5UFdQdXctYk91NnBDZ3pjYnU5V3FjM2JvQnhvb3pfd3VxcWZwNTRsUGs3SzdWUVFPTVFwcEEyNlBLX19EbFR1UlBqcmdIT08xN2ZMdDk0V2JpdDc3cHJvUlZzSHl5Tmh2eFBKSG5LR0NkdWtINEkxbVhPZWFVVG5HTjhlNF9kSExBZXVCenY3dw |
-| 10 Aug 2025 | Bloomberg Technoz | Hukuman Pasar untuk ADRO Usai Terdepak dari MSCI Global Standard | ADRO terdepak dari MSCI Global Standard — tekanan jual dari passive fund | https://news.google.com/rss/articles/CBMitgFBVV95cUxNMzBjcnN3V2NYQkpUQlZnZ19oa29... |
-| 12 May 2025 | Mikirin Duit | Proyeksi Dividen ADRO-ADMR di RUPS | Proyeksi dividen yang akan diumumkan di RUPS ADRO | https://news.google.com/rss/articles/CBMiigFBVV95cUxOZGdBNGUzaHhlWWprSUpiMTNqLW9... |
-| 13 Jan 2026 | Emitennews | Metamorfosis ADRO dan Teka-Teki Panen Kas di Balik Dividen Jumbo | Transformasi ADRO pasca spin-off, strategi dividen | https://news.google.com/rss/articles/CBMilwFBVV95cUxPR3NwSmw1Y1NaczVZQko4MEFDUmV... |
-| 8 Aug 2025 | Ajaib | Simak Perkiraan Dividen Saham ADRO, AADI, PTBA di 2026 | Perkiraan dividen ADRO dan anak usahanya | https://news.google.com/rss/articles/CBMifEFVX3lxTE5hQjZuV3BmcDZsbmkzN3prZGthNy1... |
-| 19 Jul 2025 | CNBC Indonesia | Potensi Dividen ITMG, ADRO & PTBA di 2026 | Analisis potensi dividen emiten batubara | https://news.google.com/rss/articles/CBMipwFBVV95cUxNRndOMjE5UlVPNUMxcnk2blhlLWN... |
-| 7 Jan 2026 | kontan.co.id | Free Float Berubah, Tiga Saham Ini Digadang Masuk MSCI Global | Prospek ADRO dan saham lain masuk MSCI | https://news.google.com/rss/articles/CBMisgFBVV95cUxNVWd5YTRGNUt1d1g3M0l6QVgzdEt... |
-| 18 Dec 2024 | Mikirin Duit | Surprise Dividen Interim dari ADRO, Begini Prospeknya | ADRO bagikan dividen interim — kejutan positif | https://news.google.com/rss/articles/CBMiggFBVV95cUxPY2RmdWdjM25hRm5NeWlWOFV6aC13ZjBBbzVlRDFBOVlCaEtIcENXVENZVmJZNmdSeWhVTTFUWHNHZ3ZWdmRSdkkxZTNUMG9fbWszMklDV1JXYl93Qk1kY25WRTAwYVZFRzFqdk5YU0FSMXZ2MlFCa3NuTlpxVDBvTTlB |
-| Nov 2024 | TrenAsia | Prospek Saham ADRO Pasca Perubahan Nama dan Dividen Besar | ADRO melemah jelang spin-off, prospek ke depan | https://www.trenasia.id/korporasi/prospek-saham-adro-pasca-perubahan-nama-dan-dividen-besar |
-
----
-
-## Ringkasan Fluktuasi ADRO
-
-| Metrik | Nilai |
-|---|---|
-| Harga Pra-Spin Off (Nov 2024) | ~Rp2.700-2.800 |
-| Harga Terendah (Des 2024) | **Rp2.310** (-41% sebulan) |
-| Harga Nov 2025 | **Rp1.965** (pasca dividen) |
-| Laba FY2025 | **USD448M (-68%)** |
-| Katalis Negatif | Spin-off AADI, MSCI downgrade, holding discount ~40% |
-| Katalis Positif | Dividen yield ~8%, buyback Rp4T, transisi hijau |
-| Berita Terkait | Terdepak MSCI Global Standard (Agu 2025), dividen jumbo yield 8% (Des 2025) |
-
-> *Sumber: Google News, Mikirin Duit, Bloomberg Technoz, TrenAsia, Emitennews, CNBC Indonesia, kontan.co.id*
+| Tanggal | Sumber | Judul | URL |
+|---|---|---|---|
+| Nov 2024 | TrenAsia | Prospek Saham ADRO Pasca Perubahan Nama dan Dividen Besar | https://www.trenasia.id/korporasi/prospek-saham-adro-pasca-perubahan-nama-dan-dividen-besar |
+| Fri, 08 Aug 2025 | Ajaib | Simak Perkiraan Dividen Saham ADRO, AADI, hingga PTBA di 2026 - Ajaib | https://news.google.com/rss/articles/CBMifEFVX3lxTE5hQjZuV3BmcDZsbmkzN3prZGthNy1VR0RvX09LZnlXeEhNall5aHdTRTZ1U3d0dTJfMS1LVzVyMGppOEp2dGdSbk5hdVlGWVdoQXpZbFNCQ3ZOblNlbGpKSTJJRjVsVVNsal9XYnd0azBWS3YtWG9kWG1kaks?oc=5 |
+| Fri, 08 Aug 2025 | CNBC Indonesia | Menarik Dilirik: Begini Ramalan Dividen ITMG - PTBA untuk 2026! - CNBC Indonesia | https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLU4yRXIxZjdZbFFwS1VETFM4UG91ZjNGQ1VpLU5WaU9tM1lSX2pxTEtEMThuNHU5c3M2Nm9iMlFJbU95MEYxajFCdUM5alRiaWZkQ1N3TXhZaUNReDI1LXp2dFc2bFIzeU5PTTB1U2s5enpoQ1A5YWw1TjlfTGVtWjdFTkpBSmtpbHVhWWxEU2VNTXRUVl9Wd0RudFZEYjMwNUFWMlFGTmNlaUtNVGg0OTdUWmMxeFY0MjRlQ1FyYmp0Wjg?oc=5 |
+| Thu, 18 Dec 2025 | Mikirin Duit | ADRO Tebar Dividen Jumbo Yield Hampir 8 Persen Pasca Laba Susut, Begini Nasib Ke Depannya - Mikir... | https://news.google.com/rss/articles/CBMitgFBVV95cUxNVXl1QUZuYWRMZ19ZUGxVcXY3QXRqTlRzZ0hqbVVaeUp5aHQyUUd5UFdQdXctYk91NnBDZ3pjYnU5V3FjM2JvQnhvb3pfd3VxcWZwNTRsUGs3SzdWUVFPTVFwcEEyNlBLX19EbFR1UlBqcmdIT08xN2ZMdDk0V2JpdDc3cHJvUlZzSHl5Tmh2eFBKSG5LR0NkdWtINEkxbVhPZWFVVG5HTjhlNF9kSExBZXVCenY3dw?oc=5 |
+| Wed, 11 Mar 2026 | Emitennews.com | Saldo Laba dan Kas AADI 2025 Tebal, Sinyal Bagi-Bagi Dividen? - Emitennews.com | https://news.google.com/rss/articles/CBMikAFBVV95cUxOT0EzZXB5SlNTN1lYdEc3eDVUZVg5OFRuRGxuWm1FTE9PSEZYaktHb3ZKdFZwdTdUMXhFT2FuTVZqSjgtVXNXYy1lUHlQTTBYRGlDSmRnaWRkNjRNeEhhM3ZSc1Fpd2FsTERnbGRNTGFxVWQ2VWV0UmdvNkVMWGdaQi10aTRPMGF6NE9paGRpVGc?oc=5 |
+| Tue, 25 Feb 2025 | Bareksa.com | AADI: Raksasa Batu Bara dengan Dividen Fantastis, Sahamnya Masih Menarik? - Bareksa.com | https://news.google.com/rss/articles/CBMiugFBVV95cUxNSFJ0b1dWcS1nQkZvT1FfNEs2RmpNb0lCNFpKb2pLZkV3N0tjUFQtc0hQLXVuMnB6Q3FCenlPWmFUOUVnOWtEV1NSeXhRVXNEQjJYaVh5UExOQ3FFWmVJLTJQb0MyQ2d6dWhMMjhSY1BXTFlRdHN4VjV6VEpmd0lvQmx3WXB2cXI0WDd2TUZNRnJiMjVFOGpaYnRSeWxNUnRZS2dJMmRnVFJzUTVKOGV3cEVhMFRpZEFSU3c?oc=5 |
+| Sun, 25 May 2025 | KabarBursa.com | Adaro Andalan (AADI) Batal Bagi Dividen: Potensi Tetap Terbuka? - KabarBursa.com | https://news.google.com/rss/articles/CBMipAFBVV95cUxOMHQzUjI4UHByLWlmTUE3c3dRWVV2WVZnaXVSSGhxekpCWGJacDVVQldPX0I3NWdWVUFEdWZlVHFVV0FXaUh3NGFkSldJc2xHU3RyTFpJMWRueHE5TEpWSEVaUjJFTzVfUUNDR2ZUMmRScVVRODJOR3R3aVRxN3BXazZPa1pJZ2tYU3pYdVhNbngycnhwWHVLRV90NGZrVFQ1aXRIRA?oc=5 |
+| Tue, 12 Aug 2025 | Bloomberg Technoz | Siapa Pemilik ADRO, Saham yang Terdepak dari Indeks MSCI - Bloomberg Technoz | https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYzlNZ1UweGNEczdGdXpyMGlGQmxNRmZwT09fdi1qaWxFLU00d2JZaDJZS1NlQ3Jzc0E4czFZeFgxeHd2ZXFKNEtXN05BNlFXMkRPeWFxM2FMRmRoeXRpTFpMbzlSSUxnUDRIZXdTNXdycnk2Ml8wTzA5WG5CUTZ1bnNVaGptcWctRGFhblpWYUlhenBmNTZRWU9LQm5WdmwyQ3AweEZPVmgxUQ?oc=5 |
+| Thu, 13 Nov 2025 | Ajaib | ADRO Terbaru: Saham Menguat Usai Umumkan Dividen dan Prospek Pasca Spinoff - Ajaib | https://news.google.com/rss/articles/CBMirAFBVV95cUxPamRXVFdIZ2U5cXJQUktHWXBCcFpJQUg4RkNVSkIzXzZTa2FSdm44TE1TMnB2VE9vRDlBZmk2TV90SURUM3RuZG1DUnplY3Ayc1NsdVpNRkQxWXAxZmVodTBhclFON3k1WE9DcTQ1bFkyVXJpRkg3YjdnaEo0WGdzamhlaTYtakhWazZsRE8wMFBjRGVfNU9USHk5V1lDM0Q3UVJ6c3lnX1JtYmR4?oc=5 |

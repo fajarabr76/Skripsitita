@@ -1,31 +1,15 @@
-# Artikel Fluktuasi Saham MEDC — PT Medco Energi Internasional Tbk
+# Artikel Fluktuasi Saham MEDC
 
-*Dikompilasi dari Google News — link bisa dibuka di Google News Viewer*
+*Daftar artikel dari Google News & portal berita — URL lengkap*
 
-| Tanggal | Sumber | Judul | Ringkasan | URL |
-|---|---|---|---|---|
-| 3 May 2026 | kontan.co.id | Laba Medco (MEDC) Melonjak 282,4%, Terdongkrak Harga Migas & Laba AMMN | Laba Q1 2026 melonjak 282%, ditopang harga minyak & kontribusi AMMN | https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkswVl82MUdUY01TUnczUjVBWWZ... |
-| 3 May 2026 | Bareksa | MEDC Catat Laba Bersih Q1 2026 Melonjak 282% | Ditopang harga minyak & kontribusi AMMN | https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY1hON1p3OFc3SHBFZ0VEU1JrVmM... |
-| 2 Apr 2026 | Bloomberg Technoz | Laba Medco (MEDC) Anjlok 72,5%, Ditekan Rugi Penurunan Aset Rp2T | Laba FY2025 turun 72,5% karena impairment aset | https://news.google.com/rss/articles/CBMiswFBVV95cUxOVE56NEhvMnFqYUhONFp1Q1dleW5... |
-| 17 Feb 2026 | Bisnis.com | Target Harga Terbaru dan Ramalan Kinerja Medco Energi (MEDC) | Analis beri target harga baru untuk MEDC | https://news.google.com/rss/articles/CBMirAFBVV95cUxQOEg0cGNsTXRKTzN4RjBOZGRaeUJ... |
-| 9 Mar 2026 | Mikirin Duit | Prospek Saham MEDC dan TPIA Saat Harga Minyak Terbang ke Atas USD 100 | Harga minyak tinggi jadi katalis MEDC | https://news.google.com/rss/articles/CBMirAFBVV95cUxQR1huOUZtM29RUzhnenlZTS1ldUp... |
-| 29 Jun 2026 | Bareksa | Medco Energi Masuki Fase Pertumbuhan Baru, Analis Rekomendasi Buy | Target harga Rp1.800, fase pertumbuhan baru | https://news.google.com/rss/articles/CBMi1AFBVV95cUxON3FMa2xYQkNpbkxxcjVPYURBa25... |
-| 29 Jun 2026 | TrenAsia | Rekomendasi Saham Hari Ini: MEDC, UNTR, ADMR | MEDC jadi pilihan analis | https://news.google.com/rss/articles/CBMimAFBVV95cUxQSHEzVUFzQXNFM211VUZDM3dOdVJ... |
-| 7 May 2026 | kontan.co.id | Rekomendasi Beli MEDC di Tengah Lonjakan Harga Minyak | Harga minyak naik — MEDC direkomendasikan beli | https://news.google.com/rss/articles/CBMitAFBVV95cUxOblpNLWlHRkpZbjZnTjkyUEpLV2d... |
-| — | Bloomberg Technoz | Analis Kompak Pangkas Rekomendasi Saham MEDC | Target harga turun ke Rp1.200, laba -81% H1 2025 | https://www.bloombergtechnoz.com/detail-news/73525/analis-kompak-pangkas-rekomendasi-saham-medc/2 |
-| — | IDXChannel | Harga Minyak Naik Lagi, Saham ENRG-MEDC Cs Lanjut Reli | Reli MEDC didorong kenaikan harga minyak | https://www.idxchannel.com/market-news/harga-minyak-naik-lagi-saham-enrg-medc-cs-lanjut-reli |
-| — | IDXChannel | Bidik Tambahan Pasokan Gas MEDC, Mitra Energi Siapkan Kontrak Baru | Ekspansi gas MEDC | https://www.idxchannel.com/market-news/bidik-tambahan-pasokan-gas-medc-mitra-energi-kopi-siapkan-kontrak-baru |
-
----
-
-## Ringkasan Fluktuasi MEDC
-
-| Metrik | Nilai |
-|---|---|
-| Harga Jul 2026 | **Rp1.250** |
-| Laba Q1 2026 | **+282%** (US$67M) |
-| Laba FY2025 | **-72,5%** (impairment aset Rp2T) |
-| Katalis Positif | Harga minyak > USD100, AMMN 4,5×, ekspansi gas, rekomendasi Buy |
-| Katalis Negatif | Impairment aset, laba FY2025 turun, normalisasi harga minyak |
-
-> *Sumber: Google News, kontan.co.id, Bloomberg Technoz, Bareksa, TrenAsia, Mikirin Duit, IDXChannel*
+| Tanggal | Sumber | Judul | URL |
+|---|---|---|---|
+| — | Bloomberg Technoz | Analis Kompak Pangkas Rekomendasi Saham MEDC | https://www.bloombergtechnoz.com/detail-news/73525/analis-kompak-pangkas-rekomendasi-saham-medc/2 |
+| Sun, 03 May 2026 | Bareksa.com | MEDC Catat Laba Bersih Q1 2026 Melonjak 282%, Ditopang Harga Minyak &amp; Kontribusi AMMN - Barek... | https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY1hON1p3OFc3SHBFZ0VEU1JrVmM3RHQwVk5FQk1yb0ptc1d6b21tRTg3NVRndm9TVUtjMTJwdEstbng4OWVxaXlWc3VZSkhLOGdpRjZqbW1KZ1c2TFZ3SFVxdkdkUGxQdl9CVm8ydjZzQm0tak5qUVJkUFM3eHNmazk2ZjA3Qnk3LWozQ0VhS05IYkdpeTZodVM0WUJDQ2p0WWpEUnUySktycFE2QkluRGN4dzhPQ0M4cnVPQlpzTkZvaUN1ZzRPdQ?oc=5 |
+| Sun, 03 May 2026 | kontan.co.id | Laba Medco (MEDC) Melonjak 282,4%, Terdongkrak Harga Migas dan Laba Amman (AMMN) - kontan.co.id | https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkswVl82MUdUY01TUnczUjVBWWZfaks1bktlcmJhdDU5MUd4cGNRc0dLNEVhMGRzWUNELVFuN1d4eHppWHFSRGVydExDQi1ZcGFDU3NqaHVrc1NINk1mckRXT2lKdktxSEhkb2M2Y21Xa2RERHgtNVhWTENCZWF1QmFlbHBBVWZya3ZjbnBSaF83THFBdVhpV3YydEN6QTQwbl83Zk5qQThjQ3JN0gGmAUFVX3lxTE92azNXcU9HN1BXSmhSY19DRVR5VEV5cEVkM1MzTjYwN0o0anVVSWx3aDloRWg3VERFbWx6ZnExeVlLWGFVaGUzUFpNZGlVTHByTTYyci1BemJlSTZKTW5MRkVwdnc5X2poWmtyOE04djR4enRNemw0WGJITmxmbVpVUnFVSkZMT1plaEU1cmlRSUw5bndER0FpS2c4eXRiemd6YW5IbkE?oc=5 |
+| Tue, 17 Feb 2026 | Bisnis.com - Market | Target Harga Terbaru dan Ramalan Kinerja Medco Energi (MEDC) - Bisnis.com - Market | https://news.google.com/rss/articles/CBMirAFBVV95cUxQOEg0cGNsTXRKTzN4RjBOZGRaeUJWY1RCSkFYMlh3dVVxWGZhRHdRNWdwYVNJSW9hc1JLQWREckdaSHh1WXo4RmFlLXlsSWNuZ1U0cW5QV3RqWV9Rb280QUJLcU15WHU0Q2JTM2tVZ0Y0b0Jhb0JWUlhBV3Q5djV5RzZhQi05aVUyLXN1TnNwRXA0ZE9kOEVwVGVtMTBJbVJVV0tFSjlneUhFVEFF?oc=5 |
+| Sun, 03 May 2026 | investor.id | Laba MEDC Ngegas, RAJA, RATU, dan ELSA Lambat Panas - investor.id | https://news.google.com/rss/articles/CBMiigFBVV95cUxQcFotcTcyVnlOa0RjRFBOcHNfU1F2LWhuRXhRbkVjNnJUUEstMmQ0eGNNS2w0QV9DS3JkMlNvTmJfdXBGOXNsX05VUTlWVmdIT19HUjVDSU1TcHEyRnZmUjMycWMzZzVwTkpDb1k4dlZ4ZGp3NkNLRlJlMDg3OFNfVFVTeXBBck8xZWc?oc=5 |
+| Thu, 09 Apr 2026 | PintarSaham | Membedah Kinerja Saham MEDC: Strategi Pembersihan Aset di Tengah Lonjakan Harga Minyak - PintarSaham | https://news.google.com/rss/articles/CBMirgFBVV95cUxNaDF0Vlkyalo4Sm9wV0xqZVVIT1hidTY4Y3RidUNxSjVld3poSXdDVzA5Njh4Mk5VT0tWaVhCQkJqWEluTUdTcEItbmlacmVoanRpVlR4OXNwb0swcFRxc3lFNmVxV1Z1bERUOVE0S3lNaWJjWkVSaGlLRTE5UzVRX2xYTjhJWVJsTE81WWxOV3huTzkzY0l6UURzTUg2b1FVVmJoeHVkanJtVDNMYnc?oc=5 |
+| Thu, 07 May 2026 | KONTAN | Saham MEDC: Laba Berpeluang Melejit di 2026, Analis Kompak Pasang Rekomendasi Beli - KONTAN | https://news.google.com/rss/articles/CBMitAFBVV95cUxNUGZwUEkwVzBQaS1HZ3MzUC1na0RKTlZiNlpHRnE3QzJ6cXl1NjcwSllXeHBtVjBQRjkweld0WmZOTTgwbDhxSDRSTkVHVk56SGFHRndidjNtaGlOd0N6cFAwMk1sOUFHeXZMY3d0VDFiZ3l1bC1YMFczamJhWjRnMFRSMUNsemd4RnRmb1AyMFBLanNDd0JhWld1WHZ0NzdENHROTjEzcUlTSFo1c2pZc1BISlg?oc=5 |
+| Thu, 05 Feb 2026 | investor.id | Emiten Migas Kakap, Laba Diramal US$270 Juta, Cuan Saham Bisa 40% - investor.id | https://news.google.com/rss/articles/CBMimgFBVV95cUxPeFlyWkFZcC1YYUF4a1RDeVk2TEdoYUtRalZ6MHN2THFDb3hMUlhUMm5UYnJUTFp3dFZVM0Z5c21hLVpJdV84TERCRWNVMDBibVViT0hLOElDV0pscFpLSjQ3T3dOdEMwazBlb2RacjlsTGItTHY4NUxoU1Fwd0RUUWFqWGNTblVlY2RraHRuRnBtbUlqYVJweWtR?oc=5 |
+| Mon, 06 Apr 2026 | kontan.co.id | Cek Rekomendasi Saham Emiten Migas Saat Harga Minyak Mendidih - kontan.co.id | https://news.google.com/rss/articles/CBMingFBVV95cUxNWGlFRHVDN25pUXJUQlhOWTkzS3hkYXM2eTBIZEpqY2piSjlaU3NoMWN3T1BvUVJGcHQ1OWR5ei01cWlDVWpSbktsUnhSVndZRW9FMGdwTzB4UmJTX2djN05BajZDaTBlNEk4bW5MX0NzOFdxeU1ScGJxT0FpUHlydTRqOTFqSExWeU9rX0twZEJ5WmpPRGxjRWowa3J4QdIBlgFBVV95cUxNQWdvMXd6MHZWdENsUjd4MURxY0xuaU9hZG1kMzhlZXhpZ1pmY3VJMWtGV2p2cGZGTWZFVmtjSlVxeGJhWkt5ZTFjbVJQRnJkaTVyVmFzVDllQ19aV2xXWE5nZ3M3dV9rTlJ0Q2FJVk56Y1JIVmRGZEw2bmIxUkdNU2x1T2Z3MGVua0sxQ1g4Z1BtbFRFWEE?oc=5 |
