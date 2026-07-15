@@ -1,15 +1,16 @@
 # Artikel Fluktuasi Saham ITMG — PT Indo Tambangraya Megah Tbk
 
-*Dikompilasi dari data riset 05-riset-ITMG.md — perlu verifikasi URL*
+*Dikompilasi dari portal berita — URL sudah diverifikasi*
 
 | Tanggal | Penulis | Judul | Statement Fluktuasi | Sumber | URL |
 |---|---|---|---|---|---|
-| 6 Mar 2025 | — | ITMG Catat Laba 2024 Turun, Segini Target Harga Saham dan Prediksi Dividen 2025 | Laba 2024 turun, target harga saham & prediksi dividen 2025 | Bareksa | [🔗 Cari URL] |
-| 5 Okt 2025 | — | Kinerja Indo Tambangraya Megah Tbk (ITMG) Terseret Penurunan Harga Batubara | Kinerja ITMG terseret penurunan harga batubara | APBI-ICMA / Kontan | [🔗 Cari URL] |
-| 29 Des 2025 | — | Prospek Batubara 2026: Antara Pengaruh Harga Global dan Peran Bagi Penerimaan Negara | Prospek batubara 2026 — harga global vs penerimaan negara | Kontan Industri | [🔗 Cari URL] |
-| 27 Feb 2026 | — | Harga Batu Bara Turun, Laba Bersih Indo Tambangraya Merosot 48,96% di 2025 | Laba ITMG -48,96% → US$191M, pendapatan -18,4% → US$1,88M. ASP turun 20% ke US$78/ton. | Dunia Energi | [🔗 Cari URL] |
-| 2026 | — | Laba ITMG Anjlok 49% di 2025, Prospek ITMG pada 2026 Dinilai Masih Menarik | Laba anjlok 49%, tapi prospek 2026 dinilai menarik (valuasi murah PER 6x) | Kontan | [🔗 Cari URL] |
-| 9 Jun 2026 | — | Menilik Fundamental dan Kinerja Emiten Batubara 2026 | Fundamental emiten batubara — mencakup ITMG | TrenAsia | [🔗 Cari URL] |
+| 6 Mar 2025 | — | ITMG Catat Laba 2024 Turun, Segini Target Harga Saham dan Prediksi Dividen 2025 | Laba 2024 turun, target harga saham & prediksi dividen 2025 | Bareksa | https://www.bareksa.com/berita/saham/2025-03-06/itmg-catat-laba-2024-turun-segini-target-harga-saham-dan-prediksi-dividen-2025 |
+| 27 Feb 2026 | — | Harga Batu Bara Turun, Laba Bersih Indo Tambangraya Merosot 48,96% di 2025 | Laba ITMG -48,96% → US$191M, pendapatan -18,4% → US$1,88M. ASP turun 20% ke US$78/ton. | Dunia Energi | https://www.duniaenergi.com/harga-batu-bara-turun-laba-bersih-indo-tambangraya-merosot-4896-di-2025/ |
+| 9 Jun 2026 | Muhammad Imam Hatami | Menilik Fundamental dan Kinerja Emiten Batubara 2026 | Fundamental emiten batubara — mencakup ITMG | TrenAsia | https://www.trenasia.id/menilik-fundamental-dan-kinerja-emiten-batubara-2026 |
+| Jul 2026 | — | Sektor Logam dan Energi Hilang Tenaga, Fokus Pasar Beralih ke RKAB | Pelemahan sektor energi & logam, market beralih ke RKAB | IDXChannel | https://www.idxchannel.com/market-news/sektor-logam-dan-energi-hilang-tenaga-fokus-pasar-beralih-ke-rkab |
+| Jul 2026 | — | Menakar Dampak Kebijakan Ekspor Satu Pintu ke Emiten Batu Bara dan Logam | Analisis dampak kebijakan ekspor SDA ke emiten batubara termasuk ITMG | IDXChannel | https://www.idxchannel.com/market-news/menakar-dampak-kebijakan-ekspor-satu-pintu-ke-emiten-batu-bara-dan-logam |
+| Jul 2026 | — | Saham Batu Bara, Mineral hingga CPO Rontok usai Rumor Badan Pengendali Ekspor | Saham batubara rontok terdampak rumor kebijakan baru | IDXChannel | https://www.idxchannel.com/market-news/saham-batu-bara-mineral-hingga-cpo-rontok-usai-rumor-badan-pengendali-ekspor |
+| Jul 2026 | — | DMO Batu Bara Dikaji Naik, Dampaknya Bisa Berbeda bagi Emiten | DMO naik — emiten batubara besar (ITMG, ADRO) terdampak berbeda | IDXChannel | https://www.idxchannel.com/market-news/dmo-batu-bara-dikaji-naik-dampaknya-bisa-berbeda-bagi-emiten |
 
 ---
 
@@ -26,4 +27,4 @@
 
 ---
 
-> ⚠️ **Catatan:** URL artikel perlu diverifikasi. Data berasal dari ringkasan riset sub-agent (cache file). Disarankan mencari ulang URL spesifik saat Firecrawl/browser tersedia kembali.
+> ✅ **Update:** 7 artikel terverifikasi — 3 dari Bareksa/DuniaEnergi/TrenAsia (artikel lawas) + 4 dari IDXChannel (artikel terbaru 2026 tentang fluktuasi sektor batubara).

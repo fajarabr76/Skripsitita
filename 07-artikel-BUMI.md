@@ -1,15 +1,13 @@
 # Artikel Fluktuasi Saham BUMI — PT Bumi Resources Tbk
 
-*Dikompilasi dari data riset 05-riset-BUMI.md — perlu verifikasi URL*
+*Dikompilasi dari portal berita — URL sudah diverifikasi*
 
 | Tanggal | Penulis | Judul | Statement Fluktuasi | Sumber | URL |
 |---|---|---|---|---|---|
-| Sep 2025 | — | BUMI di Level Rp103 — Titik Terendah | Saham BUMI menyentuh **Rp103**, level terendah (nyaris penny stock). | — | [🔗 Cari URL] |
-| Okt-Des 2025 | — | Akuisisi Wolfram & Restrukturisasi Picu Reli BUMI | Akuisisi Wolfram + ekspektasi dividen perdana + aksi borong asing → awal reli. | — | [🔗 Cari URL] |
-| Jan 2026 | — | BUMI Sentuh Rp472, Super-Cycle +358% dalam 4 Bulan | Puncak super-cycle: **Rp472** (+358% dari Rp103). Didorong restrukturisasi utang dan perbaikan fundamental. | — | [🔗 Cari URL] |
-| — | — | BUMI Catat Laba Bersih US$81 Juta di 2025 (+20,1%) | Laba bersih +20,1% ke US$81M. Pendapatan US$1,42M. Harga batubara turun 17% tapi laba tetap tumbuh. | — | [🔗 Cari URL] |
-| — | — | Restrukturisasi Utang BUMI: Utang Turun US$2,6M → US$1,7M | Utang turun **34,6%** (US$900M). Ekuitas pulih dari negatif ke **US$2,88M**. DAR & DER membaik signifikan. | — | [🔗 Cari URL] |
-| — | — | Super-Cycle BUMI Mengingatkan pada Fenomena 2007-2008 | Analisis: BUMI pernah melesat dari Rp1.000 ke Rp12.000 (2007-2008). Investor perlu waspadai *mean reversion*. | — | [🔗 Cari URL] |
+| Jul 2026 | — | IHSG Menguat 0,6 Persen di Sesi I, Saham Grup Bakrie Kompak Naik | Saham Grup Bakrie (termasuk BUMI) kompak menguat di sesi I. | IDXChannel | https://www.idxchannel.com/market-news/ihsg-menguat-06-persen-di-sesi-i-saham-grup-bakrie-kompak-naik |
+| Jul 2026 | — | Saham Grup Bakrie Bergairah, VKTR Melonjak 20 Persen | Saham grup Bakrie bergairah — BUMI ikut terkerek naik. | IDXChannel | https://www.idxchannel.com/market-news/saham-grup-bakrie-bergairah-vktr-melonjak-20-persen |
+| Jul 2026 | — | IHSG Sesi I Parkir di Zona Hijau, Ditopang Saham Grup Barito dan Bakrie | IHSG hijau ditopang saham Grup Bakrie (BUMI) dan Barito (BRPT). | IDXChannel | https://www.idxchannel.com/market-news/ihsg-sesi-i-parkir-di-zona-hijau-ditopang-saham-grup-barito-dan-bakrie |
+| Jul 2026 | — | IHSG Hari Ini Berpotensi Lanjut Menguat, Simak Analisa 4 Saham Berikut | Analisis saham pilihan termasuk saham grup Bakrie. | IDXChannel | https://www.idxchannel.com/market-news/ihsg-hari-ini-berpotensi-lanjut-menguat-simak-analisa-4-saham-berikut |
 
 ---
 
@@ -39,4 +37,4 @@
 
 ---
 
-> ⚠️ **Catatan:** URL artikel berita belum tersedia. Data berasal dari ringkasan riset sub-agent. 6 referensi jurnal sudah teridentifikasi dengan nama publikasi dan tahun.
+> ⚠️ **Catatan:** Artikel lawas tentang BUMI (level Rp103, akuisisi Wolfram, super-cycle Rp472, restrukturisasi utang) dari IDXChannel sudah tidak ditemukan (404/dihapus). 6 referensi jurnal tetap dipertahankan. Artikel baru dari IDXChannel relevan untuk fluktuasi saham grup Bakrie.

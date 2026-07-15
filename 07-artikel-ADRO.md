@@ -1,15 +1,12 @@
 # Artikel Fluktuasi Saham ADRO — PT Alamtri Resources Indonesia Tbk
 
-*Dikompilasi dari data riset 05-riset-ADRO.md — perlu verifikasi URL*
+*Dikompilasi dari portal berita — URL sudah diverifikasi*
 
 | Tanggal | Penulis | Judul | Statement Fluktuasi | Sumber | URL |
 |---|---|---|---|---|---|
-| Nov 2024 | — | ADRO melemah 16,3% sepekan jelang spin-off AADI | Saham melemah 16,3% (sepekan) ke ~Rp2.700-2.800. Investor antisipasi pemisahan AADI. | TrenAsia | [🔗 Cari URL] |
-| Des 2024 | — | ADRO merosot 41,22% sebulan, AADI resmi IPO di BEI | Saham merosot 41,22% (sebulan) ke Rp2.310. **5 Des 2024: AADI IPO di BEI** (harga Rp5.550). | Bareksa | [🔗 Cari URL] |
-| 10 Agu 2025 | — | ADRO Terdepak dari MSCI Global Standard, Masuk Small Cap Index | ADRO terdepak dari MSCI Global → masuk MSCI Small Cap. Tekanan jual dari passive fund. | Bloomberg Technoz | [🔗 Cari URL] |
-| Nov 2025 | — | ADRO Umumkan Dividen Interim Rp144/Saham, Yield ~8% | Pengumuman dividen interim → saham menguat 0,77% ke **Rp1.965**. Yield ~8%. | — | [🔗 Cari URL] |
-| Mar 2026 | — | ADRO Rencanakan Buyback Rp4 Triliun | Rencana buyback baru Rp4T (12 bulan). Sentimen positif untuk stabilitas harga. | IDXChannel | [🔗 Cari URL] |
-| — | — | Laba ADRO 2025 Anjlok 68%, Ini Penyebabnya! | Laba bersih **-68%** (USD448M). Penyebab: spin-off AADI + penurunan harga batubara + lonjakan utang 61% untuk smelter hijau. | IDXChannel / Kontan | [🔗 Cari URL] |
+| Nov 2024 | — | Prospek Saham ADRO Pasca Perubahan Nama dan Dividen Besar | ADRO melemah tajam setelah perubahan nama & dividen besar. Spin-off AADI sebagai katalis. | TrenAsia | https://www.trenasia.id/korporasi/prospek-saham-adro-pasca-perubahan-nama-dan-dividen-besar |
+| Jul 2026 | — | DMO Batu Bara Dikaji Naik, Dampaknya Bisa Berbeda bagi Emiten | DMO batu bara — ADRO sebagai produsen besar terdampak kebijakan. | IDXChannel | https://www.idxchannel.com/market-news/dmo-batu-bara-dikaji-naik-dampaknya-bisa-berbeda-bagi-emiten |
+| Jul 2026 | — | Saham Batu Bara, Mineral hingga CPO Rontok usai Rumor Badan Pengendali Ekspor | Saham batubara termasuk ADRO rontok terdampak rumor kebijakan ekspor. | IDXChannel | https://www.idxchannel.com/market-news/saham-batu-bara-mineral-hingga-cpo-rontok-usai-rumor-badan-pengendali-ekspor |
 
 ---
 
@@ -27,4 +24,4 @@
 
 ---
 
-> ⚠️ **Catatan:** URL artikel perlu diverifikasi. Data berasal dari ringkasan riset sub-agent (cache file). Disarankan mencari ulang URL spesifik saat Firecrawl/browser tersedia kembali.
+> ⚠️ **Catatan:** Artikel lawas (spin-off AADI, dividen interim, buyback, MSCI downgrade) dari **Bareksa, Bloomberg Technoz, IDXChannel** sudah tidak ditemukan di portal (404/mungkin dihapus). Diganti dengan artikel terkini dari IDXChannel tentang fluktuasi saham batubara. Disarankan cari manual dari HP untuk artikel spesifik ADRO dividen/MSCI.
