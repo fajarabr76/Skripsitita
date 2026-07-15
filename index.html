@@ -1,0 +1,921 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nilai Perusahaan Sektor Energi BEI — Skripsi</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+  <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: 'Inter', -apple-system, sans-serif;
+      background: #0f172a;
+      color: #e2e8f0;
+      line-height: 1.6;
+    }
+    a { color: #38bdf8; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .container { max-width: 1280px; margin: 0 auto; padding: 0 24px; }
+
+    /* ─── HERO ─── */
+    .hero {
+      padding: 60px 20px 40px;
+      text-align: center;
+      background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+      border-bottom: 1px solid #1e3a5f;
+    }
+    .hero h1 {
+      font-size: clamp(1.6rem, 4vw, 2.6rem);
+      font-weight: 800;
+      background: linear-gradient(135deg, #38bdf8, #818cf8);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    .hero p {
+      margin-top: 8px;
+      font-size: clamp(0.9rem, 2vw, 1.1rem);
+      color: #94a3b8;
+    }
+
+    /* ─── TAB NAV ─── */
+    .tab-nav {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      display: flex;
+      overflow-x: auto;
+      background: #1e293b;
+      border-bottom: 2px solid #0f172a;
+      scrollbar-width: thin;
+      scrollbar-color: #334155 transparent;
+    }
+    .tab-nav::-webkit-scrollbar { height: 4px; }
+    .tab-nav::-webkit-scrollbar-thumb { background: #334155; border-radius: 4px; }
+    .tab-btn {
+      flex-shrink: 0;
+      padding: 14px 20px;
+      background: transparent;
+      border: none;
+      border-bottom: 3px solid transparent;
+      color: #94a3b8;
+      font-family: 'Inter', sans-serif;
+      font-size: 0.85rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s;
+      white-space: nowrap;
+    }
+    .tab-btn:hover { color: #e2e8f0; background: rgba(56,189,248,0.06); }
+    .tab-btn.active {
+      color: #38bdf8;
+      border-bottom-color: #38bdf8;
+      background: rgba(56,189,248,0.08);
+    }
+
+    /* ─── TAB CONTENT ─── */
+    .tab-panel {
+      display: none;
+      opacity: 0;
+      transition: opacity 0.25s ease;
+      padding: 32px 0 64px;
+    }
+    .tab-panel.active {
+      display: block;
+      opacity: 1;
+    }
+
+    /* ─── SECTION TITLES ─── */
+    .section-title {
+      font-size: 1.35rem;
+      font-weight: 700;
+      color: #f1f5f9;
+      margin: 32px 0 16px;
+      padding-bottom: 8px;
+      border-bottom: 2px solid #1e3a5f;
+    }
+    .section-title:first-of-type { margin-top: 0; }
+    .sub-title {
+      font-size: 1rem;
+      font-weight: 600;
+      color: #38bdf8;
+      margin: 20px 0 12px;
+    }
+
+    /* ─── TABLE ─── */
+    .table-wrap {
+      overflow-x: auto;
+      margin: 12px 0 24px;
+      border-radius: 10px;
+      border: 1px solid #1e293b;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.8rem;
+      min-width: 600px;
+    }
+    thead { background: #1e293b; }
+    th {
+      padding: 10px 12px;
+      text-align: left;
+      font-weight: 600;
+      color: #38bdf8;
+      border-bottom: 2px solid #334155;
+      white-space: nowrap;
+    }
+    td {
+      padding: 10px 12px;
+      border-bottom: 1px solid #1e293b;
+      vertical-align: top;
+    }
+    tbody tr:hover { background: rgba(56,189,248,0.04); }
+    tbody tr:nth-child(even) { background: rgba(255,255,255,0.015); }
+    tbody tr:nth-child(even):hover { background: rgba(56,189,248,0.06); }
+
+    /* ─── CARDS ─── */
+    .card {
+      background: #1e293b;
+      border-radius: 12px;
+      padding: 20px;
+      border: 1px solid #334155;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .card:hover {
+      transform: scale(1.02);
+      box-shadow: 0 8px 30px rgba(0,0,0,0.3);
+    }
+    .card h3 { color: #38bdf8; margin-bottom: 8px; font-size: 1rem; }
+    .card p { font-size: 0.85rem; color: #cbd5e1; margin-bottom: 4px; }
+    .card .label { color: #94a3b8; }
+
+    .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+    .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+    .grid-5 { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 20px; }
+
+    /* ─── COMPARISON CARDS (research gap) ─── */
+    .comparison { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin-bottom: 24px; }
+    .comparison .left-card {
+      background: #1e293b;
+      border-radius: 12px;
+      padding: 20px;
+      border: 1px solid #334155;
+      border-left: 4px solid #38bdf8;
+    }
+    .comparison .right-card {
+      background: #1e293b;
+      border-radius: 12px;
+      padding: 20px;
+      border: 1px solid #334155;
+      border-left: 4px solid #f59e0b;
+    }
+    .comparison h4 { font-size: 0.85rem; color: #94a3b8; margin-bottom: 4px; }
+    .comparison .value { font-size: 0.85rem; color: #e2e8f0; margin-bottom: 10px; }
+
+    /* ─── REGULASI TIMELINE ─── */
+    .timeline { position: relative; padding-left: 28px; }
+    .timeline::before {
+      content: '';
+      position: absolute;
+      left: 8px;
+      top: 0;
+      bottom: 0;
+      width: 2px;
+      background: #334155;
+    }
+    .timeline-item {
+      position: relative;
+      margin-bottom: 28px;
+    }
+    .timeline-item::before {
+      content: '';
+      position: absolute;
+      left: -24px;
+      top: 8px;
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: #38bdf8;
+      border: 3px solid #0f172a;
+    }
+    .timeline-date {
+      font-size: 0.8rem;
+      color: #38bdf8;
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+    .timeline-text {
+      font-size: 0.9rem;
+      color: #cbd5e1;
+    }
+
+    /* ─── CHART CONTAINER ─── */
+    .chart-box {
+      background: #1e293b;
+      border-radius: 12px;
+      padding: 20px;
+      border: 1px solid #334155;
+      margin-bottom: 24px;
+    }
+    .chart-box canvas { max-height: 360px; }
+
+    /* ─── RESPONSIVE ─── */
+    @media (max-width: 768px) {
+      .container { padding: 0 16px; }
+      .grid-2, .comparison { grid-template-columns: 1fr; }
+      .grid-3 { grid-template-columns: 1fr; }
+      .tab-btn { padding: 12px 14px; font-size: 0.78rem; }
+      .hero { padding: 40px 16px 28px; }
+      .card:hover { transform: none; }
+      .comparison .left-card, .comparison .right-card { border-left-width: 3px; }
+    }
+    @media (max-width: 480px) {
+      .tab-btn { padding: 10px 10px; font-size: 0.72rem; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- HERO -->
+  <header class="hero">
+    <h1>Nilai Perusahaan Sektor Energi BEI</h1>
+    <p>Skripsi — Pengaruh Likuiditas, Struktur Modal, dan Climate Change Disclosure terhadap Nilai Perusahaan pada Sektor Energi di Bursa Efek Indonesia</p>
+  </header>
+
+  <!-- TAB NAV -->
+  <nav class="tab-nav" id="tabNav">
+    <button class="tab-btn active" data-tab="fenomena">📋 Fenomena</button>
+    <button class="tab-btn" data-tab="penelitian">📚 Penelitian Terdahulu</button>
+    <button class="tab-btn" data-tab="gap">🔬 Research Gap</button>
+    <button class="tab-btn" data-tab="operasional">📊 Tabel Operasional</button>
+    <button class="tab-btn" data-tab="emiten">🏢 Riset Emiten</button>
+    <button class="tab-btn" data-tab="regulasi">📜 Regulasi</button>
+  </nav>
+
+  <div class="container">
+
+    <!-- ════════════════ TAB 1: FENOMENA ════════════════ -->
+    <div class="tab-panel active" id="tab-fenomena">
+
+      <h2 class="section-title">📋 A. Tabel Berita</h2>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>No</th>
+              <th>Sumber</th>
+              <th>Penulis</th>
+              <th>Tanggal</th>
+              <th>Judul Berita</th>
+              <th>Ringkasan</th>
+              <th>Tahun</th>
+              <th>URL</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>1</td>
+              <td>emitennews.com</td>
+              <td>Ida Farida</td>
+              <td>11/03/2026</td>
+              <td>Laba ADRO 2025 Anjlok 68%, Ini Penyebabnya!</td>
+              <td>Penurunan laba bersih ADRO karena spin-off AADI + lonjakan utang bank 61% untuk proyek transisi hijau</td>
+              <td>2025</td>
+              <td><a href="https://emitennews.com/news/laba-adro-2025-anjlok-68-persen-ini-penyebabnya" target="_blank">Link</a></td>
+            </tr>
+            <tr>
+              <td>2</td>
+              <td>Kontan Insight</td>
+              <td>—</td>
+              <td>21 Sep 2025</td>
+              <td>Saham BRPT Terus Menanjak, Vanguard-Blackrock Akumulasi</td>
+              <td>Naik 32,16% sepekan, YTD +219,15% ke Rp3.000</td>
+              <td>2025</td>
+              <td><a href="https://insight.kontan.co.id/news/saham-brpt-terus-menanjak-vanguard-hingga-blackrock-gemar-akumulasi" target="_blank">Link</a></td>
+            </tr>
+            <tr>
+              <td>3</td>
+              <td>IDNFinancials</td>
+              <td>—</td>
+              <td>9 Agu 2025</td>
+              <td>Laba Barito Pacific Melonjak 1.464%</td>
+              <td>Laba H1 2025 +1.464,9%. Saham +3,36% ke Rp2.460, YTD +161,7%</td>
+              <td>2025</td>
+              <td><a href="https://www.idnfinancials.com/id/news/56491/petrokimia-dan-akuisisi-aster-bawa-laba-barito-pacific-melonjak-1-464" target="_blank">Link</a></td>
+            </tr>
+            <tr>
+              <td>4</td>
+              <td>FXStreet ID</td>
+              <td>—</td>
+              <td>24 Sep 2025</td>
+              <td>BRPT Naik 15% ke ATH 3.910</td>
+              <td>Tembus ATH Rp3.910 (+15%). Dari terendah Rp585 (18 Mar)</td>
+              <td>2025</td>
+              <td><a href="https://www.fxstreet-id.com/news/brpt-naik-lebih-dari-15-ke-tertinggi-baru-sepanjang-masa-3910-202509241002" target="_blank">Link</a></td>
+            </tr>
+            <tr>
+              <td>5</td>
+              <td>IDXChannel</td>
+              <td>—</td>
+              <td>31 Mar 2026</td>
+              <td>Laba BRPT Melesat 1.214%</td>
+              <td>Laba FY2025 USD1,616M (+1.214%). Pendapatan USD7,63M (+220%)</td>
+              <td>2026</td>
+              <td><a href="https://www.idxchannel.com/market-news/ditopang-akuisisi-aster-laba-brpt-melesat-1214-persen-jadi-rp2747-triliun" target="_blank">Link</a></td>
+            </tr>
+            <tr>
+              <td>6</td>
+              <td>Liputan6</td>
+              <td>—</td>
+              <td>2 Apr 2026</td>
+              <td>BRPT Raup Pendapatan USD7,63M</td>
+              <td>Pendapatan +219,7%, laba bersih +775% ke USD490M</td>
+              <td>2026</td>
+              <td><a href="https://www.liputan6.com/saham/read/6309209/emiten-brpt-raup-pendapatan-usd-763-miliar-pada-2025" target="_blank">Link</a></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2 class="section-title">📈 B. Chart &amp; Tabel Harga Saham 2020–2025</h2>
+
+      <div class="chart-box">
+        <div class="toggle-hint" style="color:#94a3b8; font-size:0.8rem; margin-bottom:10px;">🎛️ Centang emiten untuk tampilkan / sembunyikan garis:</div>
+        <div id="chartToggles" style="display:flex; flex-wrap:wrap; gap:8px; margin-bottom:16px;">
+          <button class="toggle-btn active" data-emiten="ITMG" style="background:#1e293b; color:#38bdf8; border:2px solid #38bdf8; padding:6px 14px; border-radius:6px; cursor:pointer; font-family:'Inter',sans-serif; font-size:0.8rem; font-weight:600; transition:all 0.2s;">✓ ITMG</button>
+          <button class="toggle-btn active" data-emiten="ADRO" style="background:#1e293b; color:#f97316; border:2px solid #f97316; padding:6px 14px; border-radius:6px; cursor:pointer; font-family:'Inter',sans-serif; font-size:0.8rem; font-weight:600; transition:all 0.2s;">✓ ADRO</button>
+          <button class="toggle-btn active" data-emiten="BRPT" style="background:#1e293b; color:#22c55e; border:2px solid #22c55e; padding:6px 14px; border-radius:6px; cursor:pointer; font-family:'Inter',sans-serif; font-size:0.8rem; font-weight:600; transition:all 0.2s;">✓ BRPT</button>
+          <button class="toggle-btn active" data-emiten="MEDC" style="background:#1e293b; color:#ef4444; border:2px solid #ef4444; padding:6px 14px; border-radius:6px; cursor:pointer; font-family:'Inter',sans-serif; font-size:0.8rem; font-weight:600; transition:all 0.2s;">✓ MEDC</button>
+          <button class="toggle-btn active" data-emiten="BUMI" style="background:#1e293b; color:#eab308; border:2px solid #eab308; padding:6px 14px; border-radius:6px; cursor:pointer; font-family:'Inter',sans-serif; font-size:0.8rem; font-weight:600; transition:all 0.2s;">✓ BUMI</button>
+        </div>
+        <canvas id="hargaSahamChart"></canvas>
+      </div>
+
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Kode</th>
+              <th>Perusahaan</th>
+              <th>2020</th>
+              <th>2021</th>
+              <th>2022</th>
+              <th>2023</th>
+              <th>2024</th>
+              <th>2025</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>ITMG</strong></td>
+              <td>PT Indo Tambangraya Megah Tbk</td>
+              <td>13,850</td>
+              <td>20,400</td>
+              <td>39,025</td>
+              <td>25,650</td>
+              <td>26,700</td>
+              <td>21,875</td>
+            </tr>
+            <tr>
+              <td><strong>ADRO</strong></td>
+              <td>PT Alamtri Resources Indonesia Tbk</td>
+              <td>1,430</td>
+              <td>2,250</td>
+              <td>3,850</td>
+              <td>2,380</td>
+              <td>2,430</td>
+              <td>1,810</td>
+            </tr>
+            <tr>
+              <td><strong>BRPT</strong></td>
+              <td>PT Barito Pacific Tbk</td>
+              <td>1,100</td>
+              <td>855</td>
+              <td>755</td>
+              <td>1,330</td>
+              <td>920</td>
+              <td>3,270</td>
+            </tr>
+            <tr>
+              <td><strong>MEDC</strong></td>
+              <td>PT Medco Energi Internasional Tbk</td>
+              <td>590</td>
+              <td>466</td>
+              <td>1,015</td>
+              <td>1,155</td>
+              <td>1,100</td>
+              <td>1,345</td>
+            </tr>
+            <tr>
+              <td><strong>BUMI</strong></td>
+              <td>PT Bumi Resources Tbk</td>
+              <td>72</td>
+              <td>67</td>
+              <td>161</td>
+              <td>85</td>
+              <td>135</td>
+              <td>366</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+    </div>
+
+    <!-- ════════════════ TAB 2: PENELITIAN TERDAHULU ════════════════ -->
+    <div class="tab-panel" id="tab-penelitian">
+      <h2 class="section-title">📚 Penelitian Terdahulu</h2>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>No</th>
+              <th>Nama Peneliti</th>
+              <th>Judul</th>
+              <th>Index Jurnal</th>
+              <th>Kategori</th>
+              <th>Tujuan</th>
+              <th>Metode</th>
+              <th>Hipotesis</th>
+              <th>Hasil</th>
+              <th>Persamaan</th>
+              <th>Perbedaan</th>
+              <th>Link</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>1</td>
+              <td>Musaab Alnaim &amp; Abdelmoneim Bahyeldin Mohamed Metwally</td>
+              <td>Board Gender Diversity and the Value Effect of Climate Change Reporting</td>
+              <td>Q2 Intl J Financial Studies 2026</td>
+              <td>Internasional</td>
+              <td>Dampak CCD thd FV + moderasi BGD</td>
+              <td>—</td>
+              <td>—</td>
+              <td>CCD+ signifikan thd FV, BGD memperkuat</td>
+              <td>Nilai Perusahaan</td>
+              <td>Objek non-keuangan</td>
+              <td><a href="https://www.mdpi.com/2227-7072/14/3/57" target="_blank">Link</a></td>
+            </tr>
+            <tr>
+              <td>2</td>
+              <td>Agusius Yolanda &amp; Hadi Santoso</td>
+              <td>Determinasi Nilai Perusahaan dengan Profitabilitas sebagai Mediasi</td>
+              <td>Sinta 3 JEMS 2025</td>
+              <td>Nasional</td>
+              <td>Manajemen modal kerja &amp; struktur modal thd NP</td>
+              <td>Purposive sampling</td>
+              <td>7 hipotesis</td>
+              <td>Manajemen MK, SM, profitabilitas → NP+</td>
+              <td>NP, sektor energi</td>
+              <td>Profitabilitas mediasi</td>
+              <td><a href="https://www.researchgate.net/publication/396239259" target="_blank">Link</a></td>
+            </tr>
+            <tr>
+              <td>3</td>
+              <td>[Tidak disebutkan]</td>
+              <td>—</td>
+              <td>Sinta 3 JAFM 2026</td>
+              <td>Nasional</td>
+              <td>—</td>
+              <td>Purposive sampling</td>
+              <td>CSR+, Likuiditas+, SM-</td>
+              <td>—</td>
+              <td>Nilai Perusahaan</td>
+              <td>CSR &amp; Likuiditas</td>
+              <td>—</td>
+            </tr>
+            <tr>
+              <td>4</td>
+              <td>Chiyasa Nur Fitriani &amp; Henny Wirianata</td>
+              <td>Determinasi Nilai Perusahaan Sektor Energi: Profitabilitas, SM, Belanja Modal</td>
+              <td>Sinta 5 Al-Zayn 2026</td>
+              <td>Nasional</td>
+              <td>—</td>
+              <td>Purposive sampling</td>
+              <td>—</td>
+              <td>—</td>
+              <td>NP, sektor energi</td>
+              <td>Belanja modal</td>
+              <td><a href="https://ejournal.yayasanpendidikandzurriyatulquran.id/index.php/AlZayn/article/view/3361" target="_blank">Link</a></td>
+            </tr>
+            <tr>
+              <td>5</td>
+              <td>[Tidak disebutkan]</td>
+              <td>Struktur Modal terhadap Nilai Perusahaan dg Profitabilitas Moderasi</td>
+              <td>—</td>
+              <td>—</td>
+              <td>—</td>
+              <td>—</td>
+              <td>—</td>
+              <td>—</td>
+              <td>Nilai Perusahaan</td>
+              <td>Profitabilitas moderasi</td>
+              <td><a href="https://www.researchgate.net/publication/396943617" target="_blank">Link</a></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- ════════════════ TAB 3: RESEARCH GAP ════════════════ -->
+    <div class="tab-panel" id="tab-gap">
+      <h2 class="section-title">🔬 Research Gap — Perbandingan</h2>
+
+      <!-- Entry 1 -->
+      <h3 class="sub-title">1. Elisyah &amp; Denny Hambali — Madani Sinta 4 (2025)</h3>
+      <div class="comparison">
+        <div class="left-card">
+          <h4>🔵 KIRI — Penelitian Terdahulu</h4>
+          <div><span class="label">Hipotesis:</span></div>
+          <div class="value">H1: CSR+ thd NP<br>H2: Likuiditas+ thd NP<br>H3: Struktur Modal- thd NP</div>
+          <div><span class="label">Hasil:</span></div>
+          <div class="value">CSR+ → signifikan<br>SM- → signifikan<br>Likuiditas → tidak signifikan<br><strong>R² = 65,21%</strong></div>
+          <div><span class="label">Jurnal:</span> MADANI Sinta 4, 2025</div>
+          <div><span class="label">Link:</span> <a href="https://www.researchgate.net/publication/395229995" target="_blank">ResearchGate</a></div>
+        </div>
+        <div class="right-card">
+          <h4>🟡 KANAN — Rencana Penelitian</h4>
+          <div><span class="label">Hipotesis:</span></div>
+          <div class="value">[Belum diisi]</div>
+          <div><span class="label">Variabel:</span></div>
+          <div class="value">[Belum diisi]</div>
+          <div><span class="label">Metode:</span></div>
+          <div class="value">[Belum diisi]</div>
+          <div><span class="label">Objek:</span></div>
+          <div class="value">[Belum diisi]</div>
+        </div>
+      </div>
+
+      <!-- Entry 2 -->
+      <h3 class="sub-title">2. Ruli Saleh &amp; Yana Hendayana — JAFM Sinta 3 (2026)</h3>
+      <div class="comparison">
+        <div class="left-card">
+          <h4>🔵 KIRI — Penelitian Terdahulu</h4>
+          <div><span class="label">Hipotesis:</span> 7 hipotesis mediasi</div>
+          <div><span class="label">Hasil:</span></div>
+          <div class="value">ESG → Kinerja+ signifikan<br>ESG → Nilai tidak signifikan<br>SM → Nilai tidak signifikan<br>Kinerja → Nilai+ signifikan<br>Kinerja TIDAK memediasi ESG → Nilai<br>Kinerja memediasi SM → Nilai</div>
+          <div><span class="label">Jurnal:</span> JAFM Sinta 3, 2026</div>
+          <div><span class="label">Link:</span> <a href="https://www.researchgate.net/publication/408129598" target="_blank">ResearchGate</a></div>
+        </div>
+        <div class="right-card">
+          <h4>🟡 KANAN — Rencana Penelitian</h4>
+          <div><span class="label">Hipotesis:</span></div>
+          <div class="value">[Belum diisi]</div>
+          <div><span class="label">Variabel:</span></div>
+          <div class="value">[Belum diisi]</div>
+          <div><span class="label">Metode:</span></div>
+          <div class="value">[Belum diisi]</div>
+          <div><span class="label">Objek:</span></div>
+          <div class="value">[Belum diisi]</div>
+        </div>
+      </div>
+
+      <h2 class="section-title">📊 Gap Analysis — Inkonsistensi Struktur Modal</h2>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>No</th>
+              <th>Peneliti</th>
+              <th>Hasil Struktur Modal → Nilai Perusahaan</th>
+              <th>Keterangan</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>1</td>
+              <td>Elisyah &amp; Denny Hambali (2025)</td>
+              <td><span style="color:#22c55e;">Signifikan negatif</span></td>
+              <td>SM- signifikan → NP</td>
+            </tr>
+            <tr>
+              <td>2</td>
+              <td>Ruli Saleh &amp; Yana Hendayana (2026)</td>
+              <td><span style="color:#ef4444;">Tidak signifikan</span></td>
+              <td>SM → Nilai tidak signifikan</td>
+            </tr>
+            <tr>
+              <td>3</td>
+              <td>Agusius Yolanda &amp; Hadi Santoso (2025)</td>
+              <td><span style="color:#22c55e;">Signifikan positif</span></td>
+              <td>SM+ → NP (dimediasi profitabilitas)</td>
+            </tr>
+            <tr>
+              <td>4</td>
+              <td>[Tidak disebutkan] (JAFM 2026)</td>
+              <td><span style="color:#22c55e;">Signifikan negatif</span></td>
+              <td>SM- disebut di hipotesis</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p style="color:#f59e0b; font-size:0.85rem; margin-top:8px;">
+        ⚠️ <strong>INKONSISTENSI:</strong> Terdapat perbedaan hasil pada variabel Struktur Modal — ada yang signifikan positif, signifikan negatif, dan tidak signifikan. Hal ini membuka <em>research gap</em> untuk diteliti lebih lanjut.
+      </p>
+    </div>
+
+    <!-- ════════════════ TAB 4: TABEL OPERASIONAL ════════════════ -->
+    <div class="tab-panel" id="tab-operasional">
+      <h2 class="section-title">📊 Tabel Operasional Variabel</h2>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Kode</th>
+              <th>Variabel</th>
+              <th>Definisi</th>
+              <th>Proksi</th>
+              <th>Rumus</th>
+              <th>Link Jurnal</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Y</strong></td>
+              <td>Nilai Perusahaan (Dependen)</td>
+              <td>Persepsi pasar terhadap aspek finansial &amp; non-finansial (Hidayah et al., 2026)</td>
+              <td>Tobin's Q</td>
+              <td>(Nilai Pasar + Nilai Buku Utang) / Total Aset</td>
+              <td>
+                <a href="#" onclick="alert('Link jurnal 1 — placeholder'); return false;">Jurnal 1</a> &middot;
+                <a href="#" onclick="alert('Link jurnal 2 — placeholder'); return false;">Jurnal 2</a>
+              </td>
+            </tr>
+            <tr>
+              <td><strong>X1</strong></td>
+              <td>Likuiditas (Independen)</td>
+              <td>[Belum diisi]</td>
+              <td>[Belum diisi]</td>
+              <td>[Belum diisi]</td>
+              <td>[Belum diisi]</td>
+            </tr>
+            <tr>
+              <td><strong>X2</strong></td>
+              <td>Struktur Modal (Independen)</td>
+              <td>[Belum diisi]</td>
+              <td>[Belum diisi]</td>
+              <td>[Belum diisi]</td>
+              <td>[Belum diisi]</td>
+            </tr>
+            <tr>
+              <td><strong>X3</strong></td>
+              <td>Climate Change Disclosure (Independen)</td>
+              <td>[Belum diisi]</td>
+              <td>[Belum diisi]</td>
+              <td>[Belum diisi]</td>
+              <td>[Belum diisi]</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- ════════════════ TAB 5: RISET EMITEN ════════════════ -->
+    <div class="tab-panel" id="tab-emiten">
+      <h2 class="section-title">🏢 Riset Emiten Sektor Energi</h2>
+      <div class="grid-5">
+
+        <div class="card">
+          <h3>⛏️ ITMG</h3>
+          <p><span class="label">Laba:</span> -49% (US$191M, FY2025)</p>
+          <p><span class="label">PER:</span> 6× (termurah di sektor)</p>
+          <p><span class="label">Buyback:</span> Rp2,5T</p>
+          <p><span class="label">Dividen yield:</span> ~10%</p>
+          <p><span class="label">ASP batubara:</span> -20%</p>
+          <p><span class="label">Diversifikasi:</span> Nikel (NICE)</p>
+        </div>
+
+        <div class="card">
+          <h3>🪨 ADRO</h3>
+          <p><span class="label">Laba:</span> -68% (USD448M, FY2025)</p>
+          <p><span class="label">Spin-off:</span> AADI (Des 2024)</p>
+          <p><span class="label">MSCI:</span> Downgrade (Agu 2025)</p>
+          <p><span class="label">Transisi Hijau:</span> Smelter Al Kaltara, PLTA 1.370MW, PLTS 2GW</p>
+          <p><span class="label">Buyback:</span> Rp4T</p>
+          <p><span class="label">Paper akademik:</span> 7 ditemukan</p>
+        </div>
+
+        <div class="card">
+          <h3>🌳 BRPT</h3>
+          <p><span class="label">Laba:</span> +767% (US$490M, FY2025)</p>
+          <p><span class="label">Pendapatan:</span> +220% ke US$7,63M</p>
+          <p><span class="label">Akuisisi:</span> Kilang Aster (Shell, Apr 2025), Chevron Phillips, Esso</p>
+          <p><span class="label">BREN:</span> Geothermal 1GW</p>
+          <p><span class="label">Saham:</span> Rp755 → Rp3.270 (ATH Rp3.910)</p>
+        </div>
+
+        <div class="card">
+          <h3>🛢️ MEDC</h3>
+          <p><span class="label">Laba Q1 2026:</span> +282% ke US$67M</p>
+          <p><span class="label">EBT:</span> 199MW COD Jan 2025</p>
+          <p><span class="label">AMMN:</span> 4,5× katalis 2026</p>
+          <p><span class="label">Corridor PSC:</span> +25k boepd</p>
+          <p><span class="label">Blok Sakakemang:</span> Gas Q3 2027</p>
+          <p><span class="label">PER:</span> 10×, target analis Rp1.800–1.900</p>
+        </div>
+
+        <div class="card">
+          <h3>⛽ BUMI</h3>
+          <p><span class="label">Super-cycle:</span> +358% (Rp103→Rp472, Sep 2025–Jan 2026)</p>
+          <p><span class="label">Laba:</span> +20,1% ke US$81M</p>
+          <p><span class="label">Restrukturisasi utang:</span> US$2,6B → US$1,7B</p>
+          <p><span class="label">Ekuitas:</span> Pulih US$2,88B</p>
+          <p><span class="label">Paper akademik:</span> 6 (Wahana Pendidikan Jul 2025, MUSYTARI Mei 2026)</p>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- ════════════════ TAB 6: REGULASI ════════════════ -->
+    <div class="tab-panel" id="tab-regulasi">
+      <h2 class="section-title">📜 Regulasi OJK &amp; BEI — Analisis Dampak ke Fluktuasi Saham</h2>
+
+      <!-- Kartu 1 -->
+      <div class="card" style="margin-bottom:20px; border-left:4px solid #38bdf8;">
+        <h3>🏛️ OJK CRMS 2024</h3>
+        <p><strong>Kebijakan:</strong> Climate Risk Management &amp; Scenario Analysis (6 buku panduan)</p>
+        <p style="margin-top:10px;"><strong>📈 Dampak ke Saham:</strong> Perusahaan yang proaktif mengelola risiko iklim (contoh: ADRO dengan transisi hijau) berpotensi mendapat <strong>premium valuasi</strong> dari investor ESG-conscious. Sebaliknya, emiten batubara murni yang tidak adaptif berisiko <strong>discount valuasi</strong>.</p>
+        <p style="margin-top:10px;"><strong>🔗 Fenomena terkait:</strong> ADRO spin-off AADI untuk pisahkan bisnis hijau vs batubara — ini strategi merespons tekanan ESG. Saham ADRO turun -41% saat spin-off, tapi potensi re-rating jangka panjang.</p>
+      </div>
+
+      <!-- Kartu 2 -->
+      <div class="card" style="margin-bottom:20px; border-left:4px solid #22c55e;">
+        <h3>🏛️ BEI ESG Reporting (Jan 2025)</h3>
+        <p><strong>Kebijakan:</strong> Peluncuran Form E020 — ESG Metrics Reporting wajib untuk emiten</p>
+        <p style="margin-top:10px;"><strong>📈 Dampak ke Saham:</strong> Investor institusi global (Vanguard, BlackRock) makin prioritaskan ESG score. Emiten dengan ESG disclosure baik (contoh: MEDC dengan laporan keberlanjutan) berpotensi <strong>inflow dana asing</strong> → harga naik. Emiten tanpa ESG reporting berisiko dikeluarkan dari indeks MSCI/FTSE → <strong>outflow</strong> → harga turun.</p>
+        <p style="margin-top:10px;"><strong>🔗 Fenomena terkait:</strong> ADRO terdepak dari MSCI Global Standard (Agu 2025) → tekanan jual dari passive fund → harga lanjut turun.</p>
+      </div>
+
+      <!-- Kartu 3 -->
+      <div class="card" style="margin-bottom:20px; border-left:4px solid #ef4444;">
+        <h3>🏛️ Climate Disclosure Wajib 2027</h3>
+        <p><strong>Kebijakan:</strong> Implementasi penuh climate-related disclosure untuk perusahaan publik mulai 1 Jan 2027 (masa transisi 3 tahun)</p>
+        <p style="margin-top:10px;"><strong>📈 Dampak ke Saham:</strong> Emiten dengan emisi karbon tinggi (ITMG, BUMI — batubara) berpotensi menghadapi <strong>biaya kepatuhan</strong> dan <strong>tekanan divestasi</strong>. Emiten yang sudah transisi ke EBT (ADRO, MEDC, BRPT via BREN) berpotensi <strong>re-rating positif</strong>. Investor akan mulai pricing in risiko karbon sejak 2025-2026 — volatilitas saham sektor energi meningkat.</p>
+        <p style="margin-top:10px;"><strong>🔗 Fenomena terkait:</strong> BRPT (+333% di 2025) salah satunya karena ekspansi ke geothermal (BREN) — pasar menghargai diversifikasi dari fossil fuel.</p>
+      </div>
+
+      <!-- Ringkasan -->
+      <div style="background:#1e293b; border-radius:12px; padding:20px; border:1px solid #f59e0b; margin-bottom:20px;">
+        <p style="font-size:0.9rem; color:#f59e0b; font-weight:600;">📌 Kesimpulan</p>
+        <p style="font-size:0.85rem; color:#cbd5e1; margin-top:6px;">Regulasi OJK-BEI menciptakan dual-effect pada sektor energi — emiten yang adaptif terhadap ESG mendapat premium valuasi, sementara yang tidak adaptif menghadapi discount dan risiko delisting indeks global. Ini memperkuat urgensi variabel X3 (Climate Change Disclosure) dalam model nilai perusahaan.</p>
+      </div>
+
+      <div style="display:flex; gap:16px; flex-wrap:wrap;">
+        <a href="https://ojk.go.id" target="_blank" style="display:inline-block; padding:10px 20px; background:#1e293b; border:1px solid #334155; border-radius:8px; color:#38bdf8; font-size:0.85rem;">🔗 ojk.go.id — CRMS Page</a>
+        <a href="https://sustainability.idx.co.id" target="_blank" style="display:inline-block; padding:10px 20px; background:#1e293b; border:1px solid #334155; border-radius:8px; color:#38bdf8; font-size:0.85rem;">🔗 sustainability.idx.co.id</a>
+      </div>
+    </div>
+
+  </div>
+
+  <script>
+  (function() {
+    // ─── TAB SWITCHING ───
+    const tabs = document.querySelectorAll('.tab-btn');
+    const panels = {
+      fenomena:  document.getElementById('tab-fenomena'),
+      penelitian: document.getElementById('tab-penelitian'),
+      gap:       document.getElementById('tab-gap'),
+      operasional: document.getElementById('tab-operasional'),
+      emiten:    document.getElementById('tab-emiten'),
+      regulasi:  document.getElementById('tab-regulasi')
+    };
+
+    function switchTab(name) {
+      // deactivate all
+      tabs.forEach(b => b.classList.remove('active'));
+      Object.values(panels).forEach(p => { if (p) p.classList.remove('active'); });
+      // activate selected
+      const btn = document.querySelector(`.tab-btn[data-tab="${name}"]`);
+      if (btn) btn.classList.add('active');
+      if (panels[name]) panels[name].classList.add('active');
+    }
+
+    tabs.forEach(btn => {
+      btn.addEventListener('click', () => switchTab(btn.dataset.tab));
+    });
+
+    // ─── CHART: HARGA SAHAM ───
+    const ctx = document.getElementById('hargaSahamChart');
+    let hargaSahamChart = null;
+    if (ctx && typeof Chart !== 'undefined') {
+      hargaSahamChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: ['2020', '2021', '2022', '2023', '2024', '2025'],
+          datasets: [
+            {
+              label: 'ITMG',
+              data: [13850, 20400, 39025, 25650, 26700, 21875],
+              borderColor: '#38bdf8',
+              backgroundColor: 'rgba(56,189,248,0.1)',
+              fill: true,
+              tension: 0.3,
+              pointRadius: 4,
+              pointHoverRadius: 6
+            },
+            {
+              label: 'ADRO',
+              data: [1430, 2250, 3850, 2380, 2430, 1810],
+              borderColor: '#f97316',
+              backgroundColor: 'rgba(249,115,22,0.08)',
+              fill: true,
+              tension: 0.3,
+              pointRadius: 4,
+              pointHoverRadius: 6
+            },
+            {
+              label: 'BRPT',
+              data: [1100, 855, 755, 1330, 920, 3270],
+              borderColor: '#22c55e',
+              backgroundColor: 'rgba(34,197,94,0.08)',
+              fill: true,
+              tension: 0.3,
+              pointRadius: 4,
+              pointHoverRadius: 6
+            },
+            {
+              label: 'MEDC',
+              data: [590, 466, 1015, 1155, 1100, 1345],
+              borderColor: '#ef4444',
+              backgroundColor: 'rgba(239,68,68,0.08)',
+              fill: true,
+              tension: 0.3,
+              pointRadius: 4,
+              pointHoverRadius: 6
+            },
+            {
+              label: 'BUMI',
+              data: [72, 67, 161, 85, 135, 366],
+              borderColor: '#eab308',
+              backgroundColor: 'rgba(234,179,8,0.08)',
+              fill: true,
+              tension: 0.3,
+              pointRadius: 4,
+              pointHoverRadius: 6
+            }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: true,
+          plugins: {
+            legend: {
+              labels: { color: '#e2e8f0', font: { family: 'Inter', size: 11 } }
+            },
+            tooltip: {
+              backgroundColor: '#1e293b',
+              titleColor: '#f1f5f9',
+              bodyColor: '#cbd5e1',
+              borderColor: '#334155',
+              borderWidth: 1
+            }
+          },
+          scales: {
+            x: {
+              ticks: { color: '#94a3b8', font: { family: 'Inter' } },
+              grid: { color: '#1e293b' }
+            },
+            y: {
+              ticks: {
+                color: '#94a3b8',
+                font: { family: 'Inter' },
+                callback: function(v) { return v.toLocaleString('id-ID'); }
+              },
+              grid: { color: '#1e293b' }
+            }
+          }
+        }
+      });
+
+      // ─── CHART TOGGLE ───
+      document.querySelectorAll('.toggle-btn').forEach(btn => {
+        btn.addEventListener('click', function() {
+          const emiten = this.dataset.emiten;
+          const datasetIndex = hargaSahamChart.data.datasets.findIndex(ds => ds.label === emiten);
+          if (datasetIndex === -1) return;
+          const meta = hargaSahamChart.getDatasetMeta(datasetIndex);
+          meta.hidden = !meta.hidden;
+          this.classList.toggle('active');
+          if (meta.hidden) {
+            this.textContent = '✗ ' + emiten;
+            this.style.opacity = '0.4';
+          } else {
+            this.textContent = '✓ ' + emiten;
+            this.style.opacity = '1';
+          }
+          hargaSahamChart.update();
+        });
+      });
+    }
+  })();
+  </script>
+</body>
+</html>
