@@ -1,26 +1,31 @@
 # Artikel Fluktuasi Saham BUMI — PT Bumi Resources Tbk
 
-*Dikompilasi dari portal berita — URL sudah diverifikasi*
+*Dikompilasi dari Google News — link bisa dibuka di Google News Viewer*
 
-| Tanggal | Penulis | Judul | Statement Fluktuasi | Sumber | URL |
-|---|---|---|---|---|---|
-| Jul 2026 | — | IHSG Menguat 0,6 Persen di Sesi I, Saham Grup Bakrie Kompak Naik | Saham Grup Bakrie (termasuk BUMI) kompak menguat di sesi I. | IDXChannel | https://www.idxchannel.com/market-news/ihsg-menguat-06-persen-di-sesi-i-saham-grup-bakrie-kompak-naik |
-| Jul 2026 | — | Saham Grup Bakrie Bergairah, VKTR Melonjak 20 Persen | Saham grup Bakrie bergairah — BUMI ikut terkerek naik. | IDXChannel | https://www.idxchannel.com/market-news/saham-grup-bakrie-bergairah-vktr-melonjak-20-persen |
-| Jul 2026 | — | IHSG Sesi I Parkir di Zona Hijau, Ditopang Saham Grup Barito dan Bakrie | IHSG hijau ditopang saham Grup Bakrie (BUMI) dan Barito (BRPT). | IDXChannel | https://www.idxchannel.com/market-news/ihsg-sesi-i-parkir-di-zona-hijau-ditopang-saham-grup-barito-dan-bakrie |
-| Jul 2026 | — | IHSG Hari Ini Berpotensi Lanjut Menguat, Simak Analisa 4 Saham Berikut | Analisis saham pilihan termasuk saham grup Bakrie. | IDXChannel | https://www.idxchannel.com/market-news/ihsg-hari-ini-berpotensi-lanjut-menguat-simak-analisa-4-saham-berikut |
+| Tanggal | Sumber | Judul | Ringkasan | URL |
+|---|---|---|---|---|
+| 11 Nov 2025 | Ajaib | Saham BUMI Kuasai 100% Saham Wolfram | Akuisisi 100% Wolfram — katalis positif untuk BUMI | https://news.google.com/rss/articles/CBMidEFVX3lxTFAzVldtbHdlRndIc2ZpZVNFOEdad3E... |
+| 11 Nov 2025 | Ajaib | Prospek BUMI Resources: Kuasi Reorganisasi hingga Strategi Pertumbuhan | Restrukturisasi & strategi pertumbuhan BUMI | https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14UkVpbTc2a2tneTh1NWdfZzFpSmx... |
+| 5 Jan 2026 | Mikirin Duit | Saham BUMI Terbang Tinggi, Dejavu Masa Lalu atau Momentum Baru? | Super-cycle BUMI +358%, dejavu 2007-2008 | https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0dSODUtMVlFQmtOMlRtbWpEU2x... |
+| 30 Jun 2026 | Mikirin Duit | Aksi Korporasi Saham Grup Bakrie BUMI, BRMS, DEWA Saat Market Loyo | Aksi korporasi grup Bakrie di tengah pelemahan pasar | https://news.google.com/rss/articles/CBMimwFBVV95cUxNX2JmS0NQZ2xnTi1KRWRobW5aYXM... |
+| 18 Jun 2026 | investor.id | BUMI Bakal Kasih Kejutan? | Spekulasi katalis positif untuk BUMI | https://news.google.com/rss/articles/CBMiakFVX3lxTFBORnp5alpfYzB3MkhFOHlhQm9jZjU... |
+| 19 Feb 2026 | investor.id | Saham BUMI Loncat, Barang CIC Habis? | BUMI melonjak — analisis penyebab | https://news.google.com/rss/articles/CBMid0FVX3lxTE1ScUZVVXpoR2tmUUxHeS10OXFmM0wxSlJpOXVHSW1WQ2Z0QXdNeG1pT3FzbDZHZXJEazg5Um5MUjVmVGJkV1d5QmgxbXBLdDRpQ2FHWUVmREFCZFVmSkhaaFB5UDE0SEJJaWNfMDNraDZmeWhGVmd3 |
+| 20 May 2026 | TrenAsia | Peluang dan Risiko Saham BUMI Usai Ambrol ke 180-an | BUMI ambrol ke Rp180 — analisis risiko & peluang | https://news.google.com/rss/articles/CBMijwFBVV95cUxOMnlqSm5hd2ZrR2xCaGoxM0NqeGx3QzZKcS1rSTliWUlSeWJWeHBndzhWVEJRb1BKcUdUYlhwd1pjOTZNdnZxWk5PUzVSQTYzd29LckNRdUd6aElMYlBUVFkyeXhMQmxpcFNwWEJWQzlXVlFXc2U3OEdoWTR0TjVGMlF5V1kwZ1htLTRTdUtCONIBhgFBVV95cUxOTDF5bTl2VlFiVjI3MTZnVUEzLVdaMzJGSnFTakpUa0I3QjdESjFGSTRGSHVGYVdOdnFOYzg5dG0yR29ENldaaGlnVVZwbkdtSGNrbEpTeXVSQlMycVFmeU9tSEZzUlY0S3N5RFRBbHNFbjVCNEpjOTUzRDhleFJZMVhCTGd0QQ |
+| 24 Sep 2025 | Ajaib | Bedah Saham BUMI: Bisnis, Prospek & Kinerja Perusahaan Batu Bara | Analisis fundamental BUMI | https://news.google.com/rss/articles/CBMimgFBVV95cUxNMVV5c01TTGtEbWxsMkl6ZkxUMVFlQnRzZFgtWDdKMUNMSnBSYko3ZUZPeUh2Z2FmTHB4MFFwd1JRRFRZVi1qdlBkekFDc2hJQUtTNWF3NTlfcnZRTy1kMnQycnhTelJDRXpLaGoweXJFVGhTM29iNTFrLUlZbXdlMDhmSWtiNC12b25tMjVNSHhxcHJXWGw2QWlB |
+| Jul 2026 | IDXChannel | IHSG Menguat, Saham Grup Bakrie Kompak Naik | BUMI dan grup Bakrie kompak menguat | https://www.idxchannel.com/market-news/ihsg-menguat-06-persen-di-sesi-i-saham-grup-bakrie-kompak-naik |
+| Jul 2026 | IDXChannel | Saham Grup Bakrie Bergairah, VKTR Melonjak 20% | BUMI & grup Bakrie bergairah | https://www.idxchannel.com/market-news/saham-grup-bakrie-bergairah-vktr-melonjak-20-persen |
 
 ---
 
-## Referensi Jurnal (dengan detail publikasi)
+## Referensi Jurnal
 
-| Judul | Penulis / Publikasi | Tahun |
+| Judul | Publikasi | Tahun |
 |---|---|---|
 | Analisis Kinerja Keuangan Sebelum dan Sesudah Right Issue pada PT Bumi Resources Tbk | Jurnal Ilmiah Wahana Pendidikan | Jul 2025 |
-| Pengaruh Struktur Modal, Profitabilitas, dan Likuiditas terhadap Nilai Perusahaan (Studi Perusahaan Subsektor Pertambangan Batubara BEI) | Jurnal Ilmiah Wahana Pendidikan | Jul 2025 |
-| Analisis Fundamental untuk Menilai Kewajaran Harga Saham Perusahaan Pertambangan Subsektor Batubara BEI | MUSYTARI | Mei 2026 |
-| Pengaruh Profitabilitas, Leverage, dan Likuiditas terhadap Financial Distress pada Perusahaan Sektor Pertambangan | MUSYTARI | Mei 2026 |
-| Analisis Penerapan Green Accounting dan Pengaruhnya terhadap Kinerja Keuangan pada Perusahaan Tambang Batubara | Jurnal Ilmiah Wahana Pendidikan | Jul 2025 |
-| Pengaruh Current Ratio, Debt to Equity Ratio, dan Return on Asset terhadap Harga Saham pada Perusahaan Pertambangan | MUSYTARI | Mei 2026 |
+| Pengaruh Struktur Modal, Profitabilitas, dan Likuiditas terhadap Nilai Perusahaan | Jurnal Ilmiah Wahana Pendidikan | Jul 2025 |
+| Analisis Fundamental untuk Menilai Kewajaran Harga Saham Perusahaan Pertambangan | MUSYTARI | Mei 2026 |
+| Pengaruh Profitabilitas, Leverage, dan Likuiditas terhadap Financial Distress | MUSYTARI | Mei 2026 |
+| Pengaruh Current Ratio, DER, dan ROA terhadap Harga Saham Perusahaan Pertambangan | MUSYTARI | Mei 2026 |
 
 ---
 
@@ -29,12 +34,9 @@
 | Metrik | Nilai |
 |---|---|
 | Terendah (Sep 2025) | **Rp103** |
-| Tertinggi (Jan 2026) | **Rp472** (+358%) |
-| Laba FY2025 | **US$81M (+20,1%)** |
-| Utang | US$2,6M → **US$1,7M** (-34,6%) |
-| Ekuitas | Negatif → **US$2,88M** |
-| Paper Akademik | 6 jurnal (Wahana Pendidikan Jul 2025, MUSYTARI Mei 2026) |
+| Tertinggi (Jan 2026) | **Rp472** (+358%) — super-cycle |
+| Katalis Positif | Akuisisi 100% Wolfram, restrukturisasi utang, laba +20,1% |
+| Katalis Negatif | Ambrol ke Rp180 (Mei 2026), harga batubara global turun |
+| Aksi Korporasi | Akuisisi Wolfram, right issue, grup Bakrie aktif |
 
----
-
-> ⚠️ **Catatan:** Artikel lawas tentang BUMI (level Rp103, akuisisi Wolfram, super-cycle Rp472, restrukturisasi utang) dari IDXChannel sudah tidak ditemukan (404/dihapus). 6 referensi jurnal tetap dipertahankan. Artikel baru dari IDXChannel relevan untuk fluktuasi saham grup Bakrie.
+> *Sumber: Google News, Ajaib, Mikirin Duit, investor.id, TrenAsia, IDXChannel*
